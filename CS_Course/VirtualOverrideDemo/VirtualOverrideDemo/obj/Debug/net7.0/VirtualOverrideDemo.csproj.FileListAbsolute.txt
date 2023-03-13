@@ -1,0 +1,15 @@
+D:\programowanie\GitCourses\courses\CS_Course\VirtualOverrideDemo\VirtualOverrideDemo\bin\Debug\net7.0\VirtualOverrideDemo.exe
+D:\programowanie\GitCourses\courses\CS_Course\VirtualOverrideDemo\VirtualOverrideDemo\bin\Debug\net7.0\VirtualOverrideDemo.deps.json
+D:\programowanie\GitCourses\courses\CS_Course\VirtualOverrideDemo\VirtualOverrideDemo\bin\Debug\net7.0\VirtualOverrideDemo.runtimeconfig.json
+D:\programowanie\GitCourses\courses\CS_Course\VirtualOverrideDemo\VirtualOverrideDemo\bin\Debug\net7.0\VirtualOverrideDemo.dll
+D:\programowanie\GitCourses\courses\CS_Course\VirtualOverrideDemo\VirtualOverrideDemo\bin\Debug\net7.0\VirtualOverrideDemo.pdb
+D:\programowanie\GitCourses\courses\CS_Course\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\net7.0\VirtualOverrideDemo.csproj.AssemblyReference.cache
+D:\programowanie\GitCourses\courses\CS_Course\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\net7.0\VirtualOverrideDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\programowanie\GitCourses\courses\CS_Course\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\net7.0\VirtualOverrideDemo.AssemblyInfoInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\net7.0\VirtualOverrideDemo.AssemblyInfo.cs
+D:\programowanie\GitCourses\courses\CS_Course\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\net7.0\VirtualOverrideDemo.csproj.CoreCompileInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\net7.0\VirtualOverrideDemo.dll
+D:\programowanie\GitCourses\courses\CS_Course\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\net7.0\refint\VirtualOverrideDemo.dll
+D:\programowanie\GitCourses\courses\CS_Course\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\net7.0\VirtualOverrideDemo.pdb
+D:\programowanie\GitCourses\courses\CS_Course\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\net7.0\VirtualOverrideDemo.genruntimeconfig.cache
+D:\programowanie\GitCourses\courses\CS_Course\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\net7.0\ref\VirtualOverrideDemo.dll
