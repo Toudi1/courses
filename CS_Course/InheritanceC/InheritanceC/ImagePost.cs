@@ -8,9 +8,9 @@ namespace InheritanceC
 {
     internal class ImagePost:Post
     {
-        public string ImageURL { get; set; }
+        protected string ImageURL { get; set; }
 
-        public ImagePost() { }
+        protected ImagePost() { }
 
         public ImagePost(string title, string sendByUssername, string imageURL, bool isPublic)
         {
