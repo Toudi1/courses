@@ -1,0 +1,15 @@
+D:\programowanie\GitCourses\courses\CS_Course\InheritanceDemo2\InheritanceDemo2\obj\Debug\net7.0\InheritanceDemo2.csproj.AssemblyReference.cache
+D:\programowanie\GitCourses\courses\CS_Course\InheritanceDemo2\InheritanceDemo2\obj\Debug\net7.0\InheritanceDemo2.GeneratedMSBuildEditorConfig.editorconfig
+D:\programowanie\GitCourses\courses\CS_Course\InheritanceDemo2\InheritanceDemo2\obj\Debug\net7.0\InheritanceDemo2.AssemblyInfoInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\InheritanceDemo2\InheritanceDemo2\obj\Debug\net7.0\InheritanceDemo2.AssemblyInfo.cs
+D:\programowanie\GitCourses\courses\CS_Course\InheritanceDemo2\InheritanceDemo2\obj\Debug\net7.0\InheritanceDemo2.csproj.CoreCompileInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\InheritanceDemo2\InheritanceDemo2\bin\Debug\net7.0\InheritanceDemo2.exe
+D:\programowanie\GitCourses\courses\CS_Course\InheritanceDemo2\InheritanceDemo2\bin\Debug\net7.0\InheritanceDemo2.deps.json
+D:\programowanie\GitCourses\courses\CS_Course\InheritanceDemo2\InheritanceDemo2\bin\Debug\net7.0\InheritanceDemo2.runtimeconfig.json
+D:\programowanie\GitCourses\courses\CS_Course\InheritanceDemo2\InheritanceDemo2\bin\Debug\net7.0\InheritanceDemo2.dll
+D:\programowanie\GitCourses\courses\CS_Course\InheritanceDemo2\InheritanceDemo2\bin\Debug\net7.0\InheritanceDemo2.pdb
+D:\programowanie\GitCourses\courses\CS_Course\InheritanceDemo2\InheritanceDemo2\obj\Debug\net7.0\InheritanceDemo2.dll
+D:\programowanie\GitCourses\courses\CS_Course\InheritanceDemo2\InheritanceDemo2\obj\Debug\net7.0\refint\InheritanceDemo2.dll
+D:\programowanie\GitCourses\courses\CS_Course\InheritanceDemo2\InheritanceDemo2\obj\Debug\net7.0\InheritanceDemo2.pdb
+D:\programowanie\GitCourses\courses\CS_Course\InheritanceDemo2\InheritanceDemo2\obj\Debug\net7.0\InheritanceDemo2.genruntimeconfig.cache
+D:\programowanie\GitCourses\courses\CS_Course\InheritanceDemo2\InheritanceDemo2\obj\Debug\net7.0\ref\InheritanceDemo2.dll
