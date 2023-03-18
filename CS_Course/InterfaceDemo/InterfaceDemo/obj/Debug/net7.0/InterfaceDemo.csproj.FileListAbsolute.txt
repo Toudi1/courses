@@ -1,0 +1,15 @@
+D:\programowanie\GitCourses\courses\CS_Course\InterfaceDemo\InterfaceDemo\bin\Debug\net7.0\InterfaceDemo.exe
+D:\programowanie\GitCourses\courses\CS_Course\InterfaceDemo\InterfaceDemo\bin\Debug\net7.0\InterfaceDemo.deps.json
+D:\programowanie\GitCourses\courses\CS_Course\InterfaceDemo\InterfaceDemo\bin\Debug\net7.0\InterfaceDemo.runtimeconfig.json
+D:\programowanie\GitCourses\courses\CS_Course\InterfaceDemo\InterfaceDemo\bin\Debug\net7.0\InterfaceDemo.dll
+D:\programowanie\GitCourses\courses\CS_Course\InterfaceDemo\InterfaceDemo\bin\Debug\net7.0\InterfaceDemo.pdb
+D:\programowanie\GitCourses\courses\CS_Course\InterfaceDemo\InterfaceDemo\obj\Debug\net7.0\InterfaceDemo.csproj.AssemblyReference.cache
+D:\programowanie\GitCourses\courses\CS_Course\InterfaceDemo\InterfaceDemo\obj\Debug\net7.0\InterfaceDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\programowanie\GitCourses\courses\CS_Course\InterfaceDemo\InterfaceDemo\obj\Debug\net7.0\InterfaceDemo.AssemblyInfoInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\InterfaceDemo\InterfaceDemo\obj\Debug\net7.0\InterfaceDemo.AssemblyInfo.cs
+D:\programowanie\GitCourses\courses\CS_Course\InterfaceDemo\InterfaceDemo\obj\Debug\net7.0\InterfaceDemo.csproj.CoreCompileInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\InterfaceDemo\InterfaceDemo\obj\Debug\net7.0\InterfaceDemo.dll
+D:\programowanie\GitCourses\courses\CS_Course\InterfaceDemo\InterfaceDemo\obj\Debug\net7.0\refint\InterfaceDemo.dll
+D:\programowanie\GitCourses\courses\CS_Course\InterfaceDemo\InterfaceDemo\obj\Debug\net7.0\InterfaceDemo.pdb
+D:\programowanie\GitCourses\courses\CS_Course\InterfaceDemo\InterfaceDemo\obj\Debug\net7.0\InterfaceDemo.genruntimeconfig.cache
+D:\programowanie\GitCourses\courses\CS_Course\InterfaceDemo\InterfaceDemo\obj\Debug\net7.0\ref\InterfaceDemo.dll
