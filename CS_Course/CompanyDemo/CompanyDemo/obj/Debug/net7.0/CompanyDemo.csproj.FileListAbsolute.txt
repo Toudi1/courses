@@ -1,0 +1,15 @@
+D:\programowanie\GitCourses\courses\CS_Course\CompanyDemo\CompanyDemo\bin\Debug\net7.0\CompanyDemo.exe
+D:\programowanie\GitCourses\courses\CS_Course\CompanyDemo\CompanyDemo\bin\Debug\net7.0\CompanyDemo.deps.json
+D:\programowanie\GitCourses\courses\CS_Course\CompanyDemo\CompanyDemo\bin\Debug\net7.0\CompanyDemo.runtimeconfig.json
+D:\programowanie\GitCourses\courses\CS_Course\CompanyDemo\CompanyDemo\bin\Debug\net7.0\CompanyDemo.dll
+D:\programowanie\GitCourses\courses\CS_Course\CompanyDemo\CompanyDemo\bin\Debug\net7.0\CompanyDemo.pdb
+D:\programowanie\GitCourses\courses\CS_Course\CompanyDemo\CompanyDemo\obj\Debug\net7.0\CompanyDemo.csproj.AssemblyReference.cache
+D:\programowanie\GitCourses\courses\CS_Course\CompanyDemo\CompanyDemo\obj\Debug\net7.0\CompanyDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\programowanie\GitCourses\courses\CS_Course\CompanyDemo\CompanyDemo\obj\Debug\net7.0\CompanyDemo.AssemblyInfoInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\CompanyDemo\CompanyDemo\obj\Debug\net7.0\CompanyDemo.AssemblyInfo.cs
+D:\programowanie\GitCourses\courses\CS_Course\CompanyDemo\CompanyDemo\obj\Debug\net7.0\CompanyDemo.csproj.CoreCompileInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\CompanyDemo\CompanyDemo\obj\Debug\net7.0\CompanyDemo.dll
+D:\programowanie\GitCourses\courses\CS_Course\CompanyDemo\CompanyDemo\obj\Debug\net7.0\refint\CompanyDemo.dll
+D:\programowanie\GitCourses\courses\CS_Course\CompanyDemo\CompanyDemo\obj\Debug\net7.0\CompanyDemo.pdb
+D:\programowanie\GitCourses\courses\CS_Course\CompanyDemo\CompanyDemo\obj\Debug\net7.0\CompanyDemo.genruntimeconfig.cache
+D:\programowanie\GitCourses\courses\CS_Course\CompanyDemo\CompanyDemo\obj\Debug\net7.0\ref\CompanyDemo.dll
