@@ -1,0 +1,15 @@
+D:\programowanie\GitCourses\courses\CS_Course\iEnumerableDemo1\iEnumerableDemo1\bin\Debug\net7.0\iEnumerableDemo1.exe
+D:\programowanie\GitCourses\courses\CS_Course\iEnumerableDemo1\iEnumerableDemo1\bin\Debug\net7.0\iEnumerableDemo1.deps.json
+D:\programowanie\GitCourses\courses\CS_Course\iEnumerableDemo1\iEnumerableDemo1\bin\Debug\net7.0\iEnumerableDemo1.runtimeconfig.json
+D:\programowanie\GitCourses\courses\CS_Course\iEnumerableDemo1\iEnumerableDemo1\bin\Debug\net7.0\iEnumerableDemo1.dll
+D:\programowanie\GitCourses\courses\CS_Course\iEnumerableDemo1\iEnumerableDemo1\bin\Debug\net7.0\iEnumerableDemo1.pdb
+D:\programowanie\GitCourses\courses\CS_Course\iEnumerableDemo1\iEnumerableDemo1\obj\Debug\net7.0\iEnumerableDemo1.csproj.AssemblyReference.cache
+D:\programowanie\GitCourses\courses\CS_Course\iEnumerableDemo1\iEnumerableDemo1\obj\Debug\net7.0\iEnumerableDemo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\programowanie\GitCourses\courses\CS_Course\iEnumerableDemo1\iEnumerableDemo1\obj\Debug\net7.0\iEnumerableDemo1.AssemblyInfoInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\iEnumerableDemo1\iEnumerableDemo1\obj\Debug\net7.0\iEnumerableDemo1.AssemblyInfo.cs
+D:\programowanie\GitCourses\courses\CS_Course\iEnumerableDemo1\iEnumerableDemo1\obj\Debug\net7.0\iEnumerableDemo1.csproj.CoreCompileInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\iEnumerableDemo1\iEnumerableDemo1\obj\Debug\net7.0\iEnumerableDemo1.dll
+D:\programowanie\GitCourses\courses\CS_Course\iEnumerableDemo1\iEnumerableDemo1\obj\Debug\net7.0\refint\iEnumerableDemo1.dll
+D:\programowanie\GitCourses\courses\CS_Course\iEnumerableDemo1\iEnumerableDemo1\obj\Debug\net7.0\iEnumerableDemo1.pdb
+D:\programowanie\GitCourses\courses\CS_Course\iEnumerableDemo1\iEnumerableDemo1\obj\Debug\net7.0\iEnumerableDemo1.genruntimeconfig.cache
+D:\programowanie\GitCourses\courses\CS_Course\iEnumerableDemo1\iEnumerableDemo1\obj\Debug\net7.0\ref\iEnumerableDemo1.dll
