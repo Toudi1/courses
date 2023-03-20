@@ -1,0 +1,15 @@
+D:\programowanie\GitCourses\courses\CS_Course\PolimorphismC\PolimorphismC\obj\Debug\net7.0\PolimorphismC.csproj.AssemblyReference.cache
+D:\programowanie\GitCourses\courses\CS_Course\PolimorphismC\PolimorphismC\obj\Debug\net7.0\PolimorphismC.GeneratedMSBuildEditorConfig.editorconfig
+D:\programowanie\GitCourses\courses\CS_Course\PolimorphismC\PolimorphismC\obj\Debug\net7.0\PolimorphismC.AssemblyInfoInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\PolimorphismC\PolimorphismC\obj\Debug\net7.0\PolimorphismC.AssemblyInfo.cs
+D:\programowanie\GitCourses\courses\CS_Course\PolimorphismC\PolimorphismC\obj\Debug\net7.0\PolimorphismC.csproj.CoreCompileInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\PolimorphismC\PolimorphismC\bin\Debug\net7.0\PolimorphismC.exe
+D:\programowanie\GitCourses\courses\CS_Course\PolimorphismC\PolimorphismC\bin\Debug\net7.0\PolimorphismC.deps.json
+D:\programowanie\GitCourses\courses\CS_Course\PolimorphismC\PolimorphismC\bin\Debug\net7.0\PolimorphismC.runtimeconfig.json
+D:\programowanie\GitCourses\courses\CS_Course\PolimorphismC\PolimorphismC\bin\Debug\net7.0\PolimorphismC.dll
+D:\programowanie\GitCourses\courses\CS_Course\PolimorphismC\PolimorphismC\bin\Debug\net7.0\PolimorphismC.pdb
+D:\programowanie\GitCourses\courses\CS_Course\PolimorphismC\PolimorphismC\obj\Debug\net7.0\PolimorphismC.dll
+D:\programowanie\GitCourses\courses\CS_Course\PolimorphismC\PolimorphismC\obj\Debug\net7.0\refint\PolimorphismC.dll
+D:\programowanie\GitCourses\courses\CS_Course\PolimorphismC\PolimorphismC\obj\Debug\net7.0\PolimorphismC.pdb
+D:\programowanie\GitCourses\courses\CS_Course\PolimorphismC\PolimorphismC\obj\Debug\net7.0\PolimorphismC.genruntimeconfig.cache
+D:\programowanie\GitCourses\courses\CS_Course\PolimorphismC\PolimorphismC\obj\Debug\net7.0\ref\PolimorphismC.dll
