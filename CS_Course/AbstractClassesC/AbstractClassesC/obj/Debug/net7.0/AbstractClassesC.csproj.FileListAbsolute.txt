@@ -1,0 +1,15 @@
+D:\programowanie\GitCourses\courses\CS_Course\AbstractClassesC\AbstractClassesC\obj\Debug\net7.0\AbstractClassesC.csproj.AssemblyReference.cache
+D:\programowanie\GitCourses\courses\CS_Course\AbstractClassesC\AbstractClassesC\obj\Debug\net7.0\AbstractClassesC.GeneratedMSBuildEditorConfig.editorconfig
+D:\programowanie\GitCourses\courses\CS_Course\AbstractClassesC\AbstractClassesC\obj\Debug\net7.0\AbstractClassesC.AssemblyInfoInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\AbstractClassesC\AbstractClassesC\obj\Debug\net7.0\AbstractClassesC.AssemblyInfo.cs
+D:\programowanie\GitCourses\courses\CS_Course\AbstractClassesC\AbstractClassesC\obj\Debug\net7.0\AbstractClassesC.csproj.CoreCompileInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\AbstractClassesC\AbstractClassesC\bin\Debug\net7.0\AbstractClassesC.exe
+D:\programowanie\GitCourses\courses\CS_Course\AbstractClassesC\AbstractClassesC\bin\Debug\net7.0\AbstractClassesC.deps.json
+D:\programowanie\GitCourses\courses\CS_Course\AbstractClassesC\AbstractClassesC\bin\Debug\net7.0\AbstractClassesC.runtimeconfig.json
+D:\programowanie\GitCourses\courses\CS_Course\AbstractClassesC\AbstractClassesC\bin\Debug\net7.0\AbstractClassesC.dll
+D:\programowanie\GitCourses\courses\CS_Course\AbstractClassesC\AbstractClassesC\bin\Debug\net7.0\AbstractClassesC.pdb
+D:\programowanie\GitCourses\courses\CS_Course\AbstractClassesC\AbstractClassesC\obj\Debug\net7.0\AbstractClassesC.dll
+D:\programowanie\GitCourses\courses\CS_Course\AbstractClassesC\AbstractClassesC\obj\Debug\net7.0\refint\AbstractClassesC.dll
+D:\programowanie\GitCourses\courses\CS_Course\AbstractClassesC\AbstractClassesC\obj\Debug\net7.0\AbstractClassesC.pdb
+D:\programowanie\GitCourses\courses\CS_Course\AbstractClassesC\AbstractClassesC\obj\Debug\net7.0\AbstractClassesC.genruntimeconfig.cache
+D:\programowanie\GitCourses\courses\CS_Course\AbstractClassesC\AbstractClassesC\obj\Debug\net7.0\ref\AbstractClassesC.dll
