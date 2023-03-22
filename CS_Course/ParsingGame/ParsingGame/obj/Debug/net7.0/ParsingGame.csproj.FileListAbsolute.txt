@@ -1,0 +1,15 @@
+D:\programowanie\GitCourses\courses\CS_Course\ParsingGame\ParsingGame\obj\Debug\net7.0\ParsingGame.csproj.AssemblyReference.cache
+D:\programowanie\GitCourses\courses\CS_Course\ParsingGame\ParsingGame\obj\Debug\net7.0\ParsingGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\programowanie\GitCourses\courses\CS_Course\ParsingGame\ParsingGame\obj\Debug\net7.0\ParsingGame.AssemblyInfoInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\ParsingGame\ParsingGame\obj\Debug\net7.0\ParsingGame.AssemblyInfo.cs
+D:\programowanie\GitCourses\courses\CS_Course\ParsingGame\ParsingGame\obj\Debug\net7.0\ParsingGame.csproj.CoreCompileInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\ParsingGame\ParsingGame\bin\Debug\net7.0\ParsingGame.exe
+D:\programowanie\GitCourses\courses\CS_Course\ParsingGame\ParsingGame\bin\Debug\net7.0\ParsingGame.deps.json
+D:\programowanie\GitCourses\courses\CS_Course\ParsingGame\ParsingGame\bin\Debug\net7.0\ParsingGame.runtimeconfig.json
+D:\programowanie\GitCourses\courses\CS_Course\ParsingGame\ParsingGame\bin\Debug\net7.0\ParsingGame.dll
+D:\programowanie\GitCourses\courses\CS_Course\ParsingGame\ParsingGame\bin\Debug\net7.0\ParsingGame.pdb
+D:\programowanie\GitCourses\courses\CS_Course\ParsingGame\ParsingGame\obj\Debug\net7.0\ParsingGame.dll
+D:\programowanie\GitCourses\courses\CS_Course\ParsingGame\ParsingGame\obj\Debug\net7.0\refint\ParsingGame.dll
+D:\programowanie\GitCourses\courses\CS_Course\ParsingGame\ParsingGame\obj\Debug\net7.0\ParsingGame.pdb
+D:\programowanie\GitCourses\courses\CS_Course\ParsingGame\ParsingGame\obj\Debug\net7.0\ParsingGame.genruntimeconfig.cache
+D:\programowanie\GitCourses\courses\CS_Course\ParsingGame\ParsingGame\obj\Debug\net7.0\ref\ParsingGame.dll
