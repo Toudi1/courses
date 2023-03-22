@@ -1,0 +1,15 @@
+D:\programowanie\GitCourses\courses\CS_Course\FileOc\FileOc\obj\Debug\net7.0\FileOc.csproj.AssemblyReference.cache
+D:\programowanie\GitCourses\courses\CS_Course\FileOc\FileOc\obj\Debug\net7.0\FileOc.GeneratedMSBuildEditorConfig.editorconfig
+D:\programowanie\GitCourses\courses\CS_Course\FileOc\FileOc\obj\Debug\net7.0\FileOc.AssemblyInfoInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\FileOc\FileOc\obj\Debug\net7.0\FileOc.AssemblyInfo.cs
+D:\programowanie\GitCourses\courses\CS_Course\FileOc\FileOc\obj\Debug\net7.0\FileOc.csproj.CoreCompileInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\FileOc\FileOc\bin\Debug\net7.0\FileOc.exe
+D:\programowanie\GitCourses\courses\CS_Course\FileOc\FileOc\bin\Debug\net7.0\FileOc.deps.json
+D:\programowanie\GitCourses\courses\CS_Course\FileOc\FileOc\bin\Debug\net7.0\FileOc.runtimeconfig.json
+D:\programowanie\GitCourses\courses\CS_Course\FileOc\FileOc\bin\Debug\net7.0\FileOc.dll
+D:\programowanie\GitCourses\courses\CS_Course\FileOc\FileOc\bin\Debug\net7.0\FileOc.pdb
+D:\programowanie\GitCourses\courses\CS_Course\FileOc\FileOc\obj\Debug\net7.0\FileOc.dll
+D:\programowanie\GitCourses\courses\CS_Course\FileOc\FileOc\obj\Debug\net7.0\refint\FileOc.dll
+D:\programowanie\GitCourses\courses\CS_Course\FileOc\FileOc\obj\Debug\net7.0\FileOc.pdb
+D:\programowanie\GitCourses\courses\CS_Course\FileOc\FileOc\obj\Debug\net7.0\FileOc.genruntimeconfig.cache
+D:\programowanie\GitCourses\courses\CS_Course\FileOc\FileOc\obj\Debug\net7.0\ref\FileOc.dll
