@@ -1,0 +1,15 @@
+D:\programowanie\GitCourses\courses\CS_Course\FileIOc\FileIOc\bin\Debug\net7.0\FileIOc.exe
+D:\programowanie\GitCourses\courses\CS_Course\FileIOc\FileIOc\bin\Debug\net7.0\FileIOc.deps.json
+D:\programowanie\GitCourses\courses\CS_Course\FileIOc\FileIOc\bin\Debug\net7.0\FileIOc.runtimeconfig.json
+D:\programowanie\GitCourses\courses\CS_Course\FileIOc\FileIOc\bin\Debug\net7.0\FileIOc.dll
+D:\programowanie\GitCourses\courses\CS_Course\FileIOc\FileIOc\bin\Debug\net7.0\FileIOc.pdb
+D:\programowanie\GitCourses\courses\CS_Course\FileIOc\FileIOc\obj\Debug\net7.0\FileIOc.csproj.AssemblyReference.cache
+D:\programowanie\GitCourses\courses\CS_Course\FileIOc\FileIOc\obj\Debug\net7.0\FileIOc.GeneratedMSBuildEditorConfig.editorconfig
+D:\programowanie\GitCourses\courses\CS_Course\FileIOc\FileIOc\obj\Debug\net7.0\FileIOc.AssemblyInfoInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\FileIOc\FileIOc\obj\Debug\net7.0\FileIOc.AssemblyInfo.cs
+D:\programowanie\GitCourses\courses\CS_Course\FileIOc\FileIOc\obj\Debug\net7.0\FileIOc.csproj.CoreCompileInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\FileIOc\FileIOc\obj\Debug\net7.0\FileIOc.dll
+D:\programowanie\GitCourses\courses\CS_Course\FileIOc\FileIOc\obj\Debug\net7.0\refint\FileIOc.dll
+D:\programowanie\GitCourses\courses\CS_Course\FileIOc\FileIOc\obj\Debug\net7.0\FileIOc.pdb
+D:\programowanie\GitCourses\courses\CS_Course\FileIOc\FileIOc\obj\Debug\net7.0\FileIOc.genruntimeconfig.cache
+D:\programowanie\GitCourses\courses\CS_Course\FileIOc\FileIOc\obj\Debug\net7.0\ref\FileIOc.dll
