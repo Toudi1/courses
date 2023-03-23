@@ -1,0 +1,15 @@
+D:\programowanie\GitCourses\courses\CS_Course\StructsC\StructsC\bin\Debug\net7.0\StructsC.exe
+D:\programowanie\GitCourses\courses\CS_Course\StructsC\StructsC\bin\Debug\net7.0\StructsC.deps.json
+D:\programowanie\GitCourses\courses\CS_Course\StructsC\StructsC\bin\Debug\net7.0\StructsC.runtimeconfig.json
+D:\programowanie\GitCourses\courses\CS_Course\StructsC\StructsC\bin\Debug\net7.0\StructsC.dll
+D:\programowanie\GitCourses\courses\CS_Course\StructsC\StructsC\bin\Debug\net7.0\StructsC.pdb
+D:\programowanie\GitCourses\courses\CS_Course\StructsC\StructsC\obj\Debug\net7.0\StructsC.csproj.AssemblyReference.cache
+D:\programowanie\GitCourses\courses\CS_Course\StructsC\StructsC\obj\Debug\net7.0\StructsC.GeneratedMSBuildEditorConfig.editorconfig
+D:\programowanie\GitCourses\courses\CS_Course\StructsC\StructsC\obj\Debug\net7.0\StructsC.AssemblyInfoInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\StructsC\StructsC\obj\Debug\net7.0\StructsC.AssemblyInfo.cs
+D:\programowanie\GitCourses\courses\CS_Course\StructsC\StructsC\obj\Debug\net7.0\StructsC.csproj.CoreCompileInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\StructsC\StructsC\obj\Debug\net7.0\StructsC.dll
+D:\programowanie\GitCourses\courses\CS_Course\StructsC\StructsC\obj\Debug\net7.0\refint\StructsC.dll
+D:\programowanie\GitCourses\courses\CS_Course\StructsC\StructsC\obj\Debug\net7.0\StructsC.pdb
+D:\programowanie\GitCourses\courses\CS_Course\StructsC\StructsC\obj\Debug\net7.0\StructsC.genruntimeconfig.cache
+D:\programowanie\GitCourses\courses\CS_Course\StructsC\StructsC\obj\Debug\net7.0\ref\StructsC.dll
