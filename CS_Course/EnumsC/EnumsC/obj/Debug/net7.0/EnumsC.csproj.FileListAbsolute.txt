@@ -1,0 +1,15 @@
+D:\programowanie\GitCourses\courses\CS_Course\EnumsC\EnumsC\bin\Debug\net7.0\EnumsC.exe
+D:\programowanie\GitCourses\courses\CS_Course\EnumsC\EnumsC\bin\Debug\net7.0\EnumsC.deps.json
+D:\programowanie\GitCourses\courses\CS_Course\EnumsC\EnumsC\bin\Debug\net7.0\EnumsC.runtimeconfig.json
+D:\programowanie\GitCourses\courses\CS_Course\EnumsC\EnumsC\bin\Debug\net7.0\EnumsC.dll
+D:\programowanie\GitCourses\courses\CS_Course\EnumsC\EnumsC\bin\Debug\net7.0\EnumsC.pdb
+D:\programowanie\GitCourses\courses\CS_Course\EnumsC\EnumsC\obj\Debug\net7.0\EnumsC.csproj.AssemblyReference.cache
+D:\programowanie\GitCourses\courses\CS_Course\EnumsC\EnumsC\obj\Debug\net7.0\EnumsC.GeneratedMSBuildEditorConfig.editorconfig
+D:\programowanie\GitCourses\courses\CS_Course\EnumsC\EnumsC\obj\Debug\net7.0\EnumsC.AssemblyInfoInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\EnumsC\EnumsC\obj\Debug\net7.0\EnumsC.AssemblyInfo.cs
+D:\programowanie\GitCourses\courses\CS_Course\EnumsC\EnumsC\obj\Debug\net7.0\EnumsC.csproj.CoreCompileInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\EnumsC\EnumsC\obj\Debug\net7.0\EnumsC.dll
+D:\programowanie\GitCourses\courses\CS_Course\EnumsC\EnumsC\obj\Debug\net7.0\refint\EnumsC.dll
+D:\programowanie\GitCourses\courses\CS_Course\EnumsC\EnumsC\obj\Debug\net7.0\EnumsC.pdb
+D:\programowanie\GitCourses\courses\CS_Course\EnumsC\EnumsC\obj\Debug\net7.0\EnumsC.genruntimeconfig.cache
+D:\programowanie\GitCourses\courses\CS_Course\EnumsC\EnumsC\obj\Debug\net7.0\ref\EnumsC.dll
