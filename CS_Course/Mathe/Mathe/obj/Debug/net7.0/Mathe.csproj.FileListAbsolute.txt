@@ -1,0 +1,15 @@
+D:\programowanie\GitCourses\courses\CS_Course\Mathe\Mathe\obj\Debug\net7.0\Mathe.csproj.AssemblyReference.cache
+D:\programowanie\GitCourses\courses\CS_Course\Mathe\Mathe\obj\Debug\net7.0\Mathe.GeneratedMSBuildEditorConfig.editorconfig
+D:\programowanie\GitCourses\courses\CS_Course\Mathe\Mathe\obj\Debug\net7.0\Mathe.AssemblyInfoInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\Mathe\Mathe\obj\Debug\net7.0\Mathe.AssemblyInfo.cs
+D:\programowanie\GitCourses\courses\CS_Course\Mathe\Mathe\obj\Debug\net7.0\Mathe.csproj.CoreCompileInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\Mathe\Mathe\bin\Debug\net7.0\Mathe.exe
+D:\programowanie\GitCourses\courses\CS_Course\Mathe\Mathe\bin\Debug\net7.0\Mathe.deps.json
+D:\programowanie\GitCourses\courses\CS_Course\Mathe\Mathe\bin\Debug\net7.0\Mathe.runtimeconfig.json
+D:\programowanie\GitCourses\courses\CS_Course\Mathe\Mathe\bin\Debug\net7.0\Mathe.dll
+D:\programowanie\GitCourses\courses\CS_Course\Mathe\Mathe\bin\Debug\net7.0\Mathe.pdb
+D:\programowanie\GitCourses\courses\CS_Course\Mathe\Mathe\obj\Debug\net7.0\Mathe.dll
+D:\programowanie\GitCourses\courses\CS_Course\Mathe\Mathe\obj\Debug\net7.0\refint\Mathe.dll
+D:\programowanie\GitCourses\courses\CS_Course\Mathe\Mathe\obj\Debug\net7.0\Mathe.pdb
+D:\programowanie\GitCourses\courses\CS_Course\Mathe\Mathe\obj\Debug\net7.0\Mathe.genruntimeconfig.cache
+D:\programowanie\GitCourses\courses\CS_Course\Mathe\Mathe\obj\Debug\net7.0\ref\Mathe.dll
