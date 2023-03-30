@@ -1,0 +1,15 @@
+D:\programowanie\GitCourses\courses\CS_Course\RegexE\RegexE\obj\Debug\net7.0\RegexE.csproj.AssemblyReference.cache
+D:\programowanie\GitCourses\courses\CS_Course\RegexE\RegexE\obj\Debug\net7.0\RegexE.GeneratedMSBuildEditorConfig.editorconfig
+D:\programowanie\GitCourses\courses\CS_Course\RegexE\RegexE\obj\Debug\net7.0\RegexE.AssemblyInfoInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\RegexE\RegexE\obj\Debug\net7.0\RegexE.AssemblyInfo.cs
+D:\programowanie\GitCourses\courses\CS_Course\RegexE\RegexE\obj\Debug\net7.0\RegexE.csproj.CoreCompileInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\RegexE\RegexE\bin\Debug\net7.0\RegexE.exe
+D:\programowanie\GitCourses\courses\CS_Course\RegexE\RegexE\bin\Debug\net7.0\RegexE.deps.json
+D:\programowanie\GitCourses\courses\CS_Course\RegexE\RegexE\bin\Debug\net7.0\RegexE.runtimeconfig.json
+D:\programowanie\GitCourses\courses\CS_Course\RegexE\RegexE\bin\Debug\net7.0\RegexE.dll
+D:\programowanie\GitCourses\courses\CS_Course\RegexE\RegexE\bin\Debug\net7.0\RegexE.pdb
+D:\programowanie\GitCourses\courses\CS_Course\RegexE\RegexE\obj\Debug\net7.0\RegexE.dll
+D:\programowanie\GitCourses\courses\CS_Course\RegexE\RegexE\obj\Debug\net7.0\refint\RegexE.dll
+D:\programowanie\GitCourses\courses\CS_Course\RegexE\RegexE\obj\Debug\net7.0\RegexE.pdb
+D:\programowanie\GitCourses\courses\CS_Course\RegexE\RegexE\obj\Debug\net7.0\RegexE.genruntimeconfig.cache
+D:\programowanie\GitCourses\courses\CS_Course\RegexE\RegexE\obj\Debug\net7.0\ref\RegexE.dll
