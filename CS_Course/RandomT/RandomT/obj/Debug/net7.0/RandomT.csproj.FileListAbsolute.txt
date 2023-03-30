@@ -1,0 +1,15 @@
+D:\programowanie\GitCourses\courses\CS_Course\RandomT\RandomT\bin\Debug\net7.0\RandomT.exe
+D:\programowanie\GitCourses\courses\CS_Course\RandomT\RandomT\bin\Debug\net7.0\RandomT.deps.json
+D:\programowanie\GitCourses\courses\CS_Course\RandomT\RandomT\bin\Debug\net7.0\RandomT.runtimeconfig.json
+D:\programowanie\GitCourses\courses\CS_Course\RandomT\RandomT\bin\Debug\net7.0\RandomT.dll
+D:\programowanie\GitCourses\courses\CS_Course\RandomT\RandomT\bin\Debug\net7.0\RandomT.pdb
+D:\programowanie\GitCourses\courses\CS_Course\RandomT\RandomT\obj\Debug\net7.0\RandomT.csproj.AssemblyReference.cache
+D:\programowanie\GitCourses\courses\CS_Course\RandomT\RandomT\obj\Debug\net7.0\RandomT.GeneratedMSBuildEditorConfig.editorconfig
+D:\programowanie\GitCourses\courses\CS_Course\RandomT\RandomT\obj\Debug\net7.0\RandomT.AssemblyInfoInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\RandomT\RandomT\obj\Debug\net7.0\RandomT.AssemblyInfo.cs
+D:\programowanie\GitCourses\courses\CS_Course\RandomT\RandomT\obj\Debug\net7.0\RandomT.csproj.CoreCompileInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\RandomT\RandomT\obj\Debug\net7.0\RandomT.dll
+D:\programowanie\GitCourses\courses\CS_Course\RandomT\RandomT\obj\Debug\net7.0\refint\RandomT.dll
+D:\programowanie\GitCourses\courses\CS_Course\RandomT\RandomT\obj\Debug\net7.0\RandomT.pdb
+D:\programowanie\GitCourses\courses\CS_Course\RandomT\RandomT\obj\Debug\net7.0\RandomT.genruntimeconfig.cache
+D:\programowanie\GitCourses\courses\CS_Course\RandomT\RandomT\obj\Debug\net7.0\ref\RandomT.dll
