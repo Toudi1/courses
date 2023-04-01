@@ -1,0 +1,15 @@
+D:\programowanie\GitCourses\courses\CS_Course\DataTimeT\DataTimeT\bin\Debug\net7.0\DataTimeT.exe
+D:\programowanie\GitCourses\courses\CS_Course\DataTimeT\DataTimeT\bin\Debug\net7.0\DataTimeT.deps.json
+D:\programowanie\GitCourses\courses\CS_Course\DataTimeT\DataTimeT\bin\Debug\net7.0\DataTimeT.runtimeconfig.json
+D:\programowanie\GitCourses\courses\CS_Course\DataTimeT\DataTimeT\bin\Debug\net7.0\DataTimeT.dll
+D:\programowanie\GitCourses\courses\CS_Course\DataTimeT\DataTimeT\bin\Debug\net7.0\DataTimeT.pdb
+D:\programowanie\GitCourses\courses\CS_Course\DataTimeT\DataTimeT\obj\Debug\net7.0\DataTimeT.csproj.AssemblyReference.cache
+D:\programowanie\GitCourses\courses\CS_Course\DataTimeT\DataTimeT\obj\Debug\net7.0\DataTimeT.GeneratedMSBuildEditorConfig.editorconfig
+D:\programowanie\GitCourses\courses\CS_Course\DataTimeT\DataTimeT\obj\Debug\net7.0\DataTimeT.AssemblyInfoInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\DataTimeT\DataTimeT\obj\Debug\net7.0\DataTimeT.AssemblyInfo.cs
+D:\programowanie\GitCourses\courses\CS_Course\DataTimeT\DataTimeT\obj\Debug\net7.0\DataTimeT.csproj.CoreCompileInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\DataTimeT\DataTimeT\obj\Debug\net7.0\DataTimeT.dll
+D:\programowanie\GitCourses\courses\CS_Course\DataTimeT\DataTimeT\obj\Debug\net7.0\refint\DataTimeT.dll
+D:\programowanie\GitCourses\courses\CS_Course\DataTimeT\DataTimeT\obj\Debug\net7.0\DataTimeT.pdb
+D:\programowanie\GitCourses\courses\CS_Course\DataTimeT\DataTimeT\obj\Debug\net7.0\DataTimeT.genruntimeconfig.cache
+D:\programowanie\GitCourses\courses\CS_Course\DataTimeT\DataTimeT\obj\Debug\net7.0\ref\DataTimeT.dll
