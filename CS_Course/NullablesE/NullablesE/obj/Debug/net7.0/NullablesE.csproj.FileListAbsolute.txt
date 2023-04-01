@@ -1,0 +1,15 @@
+D:\programowanie\GitCourses\courses\CS_Course\NullablesE\NullablesE\bin\Debug\net7.0\NullablesE.exe
+D:\programowanie\GitCourses\courses\CS_Course\NullablesE\NullablesE\bin\Debug\net7.0\NullablesE.deps.json
+D:\programowanie\GitCourses\courses\CS_Course\NullablesE\NullablesE\bin\Debug\net7.0\NullablesE.runtimeconfig.json
+D:\programowanie\GitCourses\courses\CS_Course\NullablesE\NullablesE\bin\Debug\net7.0\NullablesE.dll
+D:\programowanie\GitCourses\courses\CS_Course\NullablesE\NullablesE\bin\Debug\net7.0\NullablesE.pdb
+D:\programowanie\GitCourses\courses\CS_Course\NullablesE\NullablesE\obj\Debug\net7.0\NullablesE.csproj.AssemblyReference.cache
+D:\programowanie\GitCourses\courses\CS_Course\NullablesE\NullablesE\obj\Debug\net7.0\NullablesE.GeneratedMSBuildEditorConfig.editorconfig
+D:\programowanie\GitCourses\courses\CS_Course\NullablesE\NullablesE\obj\Debug\net7.0\NullablesE.AssemblyInfoInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\NullablesE\NullablesE\obj\Debug\net7.0\NullablesE.AssemblyInfo.cs
+D:\programowanie\GitCourses\courses\CS_Course\NullablesE\NullablesE\obj\Debug\net7.0\NullablesE.csproj.CoreCompileInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\NullablesE\NullablesE\obj\Debug\net7.0\NullablesE.dll
+D:\programowanie\GitCourses\courses\CS_Course\NullablesE\NullablesE\obj\Debug\net7.0\refint\NullablesE.dll
+D:\programowanie\GitCourses\courses\CS_Course\NullablesE\NullablesE\obj\Debug\net7.0\NullablesE.pdb
+D:\programowanie\GitCourses\courses\CS_Course\NullablesE\NullablesE\obj\Debug\net7.0\NullablesE.genruntimeconfig.cache
+D:\programowanie\GitCourses\courses\CS_Course\NullablesE\NullablesE\obj\Debug\net7.0\ref\NullablesE.dll
