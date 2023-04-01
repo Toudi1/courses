@@ -1,0 +1,17 @@
+D:\programowanie\GitCourses\courses\CS_Course\MainArgsDemo\MainArgsDemo\bin\Debug\net7.0\MainArgsDemo.exe
+D:\programowanie\GitCourses\courses\CS_Course\MainArgsDemo\MainArgsDemo\bin\Debug\net7.0\MainArgsDemo.deps.json
+D:\programowanie\GitCourses\courses\CS_Course\MainArgsDemo\MainArgsDemo\bin\Debug\net7.0\MainArgsDemo.runtimeconfig.json
+D:\programowanie\GitCourses\courses\CS_Course\MainArgsDemo\MainArgsDemo\bin\Debug\net7.0\MainArgsDemo.dll
+D:\programowanie\GitCourses\courses\CS_Course\MainArgsDemo\MainArgsDemo\bin\Debug\net7.0\MainArgsDemo.pdb
+D:\programowanie\GitCourses\courses\CS_Course\MainArgsDemo\MainArgsDemo\obj\Debug\net7.0\MainArgsDemo.csproj.AssemblyReference.cache
+D:\programowanie\GitCourses\courses\CS_Course\MainArgsDemo\MainArgsDemo\obj\Debug\net7.0\MainArgsDemo.Properties.Resources.resources
+D:\programowanie\GitCourses\courses\CS_Course\MainArgsDemo\MainArgsDemo\obj\Debug\net7.0\MainArgsDemo.csproj.GenerateResource.cache
+D:\programowanie\GitCourses\courses\CS_Course\MainArgsDemo\MainArgsDemo\obj\Debug\net7.0\MainArgsDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\programowanie\GitCourses\courses\CS_Course\MainArgsDemo\MainArgsDemo\obj\Debug\net7.0\MainArgsDemo.AssemblyInfoInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\MainArgsDemo\MainArgsDemo\obj\Debug\net7.0\MainArgsDemo.AssemblyInfo.cs
+D:\programowanie\GitCourses\courses\CS_Course\MainArgsDemo\MainArgsDemo\obj\Debug\net7.0\MainArgsDemo.csproj.CoreCompileInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\MainArgsDemo\MainArgsDemo\obj\Debug\net7.0\MainArgsDemo.dll
+D:\programowanie\GitCourses\courses\CS_Course\MainArgsDemo\MainArgsDemo\obj\Debug\net7.0\refint\MainArgsDemo.dll
+D:\programowanie\GitCourses\courses\CS_Course\MainArgsDemo\MainArgsDemo\obj\Debug\net7.0\MainArgsDemo.pdb
+D:\programowanie\GitCourses\courses\CS_Course\MainArgsDemo\MainArgsDemo\obj\Debug\net7.0\MainArgsDemo.genruntimeconfig.cache
+D:\programowanie\GitCourses\courses\CS_Course\MainArgsDemo\MainArgsDemo\obj\Debug\net7.0\ref\MainArgsDemo.dll
