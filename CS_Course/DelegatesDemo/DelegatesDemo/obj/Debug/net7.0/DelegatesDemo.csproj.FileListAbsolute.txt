@@ -1,0 +1,15 @@
+D:\programowanie\GitCourses\courses\CS_Course\DelegatesDemo\DelegatesDemo\bin\Debug\net7.0\DelegatesDemo.exe
+D:\programowanie\GitCourses\courses\CS_Course\DelegatesDemo\DelegatesDemo\bin\Debug\net7.0\DelegatesDemo.deps.json
+D:\programowanie\GitCourses\courses\CS_Course\DelegatesDemo\DelegatesDemo\bin\Debug\net7.0\DelegatesDemo.runtimeconfig.json
+D:\programowanie\GitCourses\courses\CS_Course\DelegatesDemo\DelegatesDemo\bin\Debug\net7.0\DelegatesDemo.dll
+D:\programowanie\GitCourses\courses\CS_Course\DelegatesDemo\DelegatesDemo\bin\Debug\net7.0\DelegatesDemo.pdb
+D:\programowanie\GitCourses\courses\CS_Course\DelegatesDemo\DelegatesDemo\obj\Debug\net7.0\DelegatesDemo.csproj.AssemblyReference.cache
+D:\programowanie\GitCourses\courses\CS_Course\DelegatesDemo\DelegatesDemo\obj\Debug\net7.0\DelegatesDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\programowanie\GitCourses\courses\CS_Course\DelegatesDemo\DelegatesDemo\obj\Debug\net7.0\DelegatesDemo.AssemblyInfoInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\DelegatesDemo\DelegatesDemo\obj\Debug\net7.0\DelegatesDemo.AssemblyInfo.cs
+D:\programowanie\GitCourses\courses\CS_Course\DelegatesDemo\DelegatesDemo\obj\Debug\net7.0\DelegatesDemo.csproj.CoreCompileInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\DelegatesDemo\DelegatesDemo\obj\Debug\net7.0\DelegatesDemo.dll
+D:\programowanie\GitCourses\courses\CS_Course\DelegatesDemo\DelegatesDemo\obj\Debug\net7.0\refint\DelegatesDemo.dll
+D:\programowanie\GitCourses\courses\CS_Course\DelegatesDemo\DelegatesDemo\obj\Debug\net7.0\DelegatesDemo.pdb
+D:\programowanie\GitCourses\courses\CS_Course\DelegatesDemo\DelegatesDemo\obj\Debug\net7.0\DelegatesDemo.genruntimeconfig.cache
+D:\programowanie\GitCourses\courses\CS_Course\DelegatesDemo\DelegatesDemo\obj\Debug\net7.0\ref\DelegatesDemo.dll
