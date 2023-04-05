@@ -20,6 +20,17 @@ internal class Program
         DisplayPeople("Kids", people, IsAdult);
         DisplayPeople("Kids", people, IsSenior);
 
+        FilterDelegate filter = delegate (Person p)
+        {
+            return p.Age >= 22 && p.Age <= 30;
+        };
+
+        DisplayPeople("Betwene 20 and 30", people, filter);
+
+
+        DisplayPeople("All people", people, delegate (Person p) { return true; });
+
+
         //Demo();
     }
 
