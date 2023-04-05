@@ -10,7 +10,7 @@ internal class Program
     {
         Person p1 = new Person() { Name = "Damian", Age = 28 };
         Person p2 = new Person() { Name = "Karol", Age = 16 };
-        Person p3 = new Person() { Name = "Kamil", Age = 35 };
+        Person p3 = new Person() { Name = "Kamil", Age = 25 };
         Person p4 = new Person() { Name = "Jan", Age = 78 };
 
 
@@ -29,6 +29,22 @@ internal class Program
 
 
         DisplayPeople("All people", people, delegate (Person p) { return true; });
+
+
+        string searchKeyword = "K";
+        DisplayPeople("age > 20 with search keyword: " + searchKeyword, people, p =>
+        {
+            if (p.Name.Contains(searchKeyword) && p.Age > 20)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        } );
+
+        DisplayPeople("exacly 25: ", people, p => p.Age == 25);
 
 
         //Demo();
