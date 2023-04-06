@@ -1,0 +1,15 @@
+D:\programowanie\GitCourses\courses\CS_Course\EventsAndMulticastDelegates\EventsAndMulticastDelegates\obj\Debug\net7.0\EventsAndMulticastDelegates.csproj.AssemblyReference.cache
+D:\programowanie\GitCourses\courses\CS_Course\EventsAndMulticastDelegates\EventsAndMulticastDelegates\obj\Debug\net7.0\EventsAndMulticastDelegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\programowanie\GitCourses\courses\CS_Course\EventsAndMulticastDelegates\EventsAndMulticastDelegates\obj\Debug\net7.0\EventsAndMulticastDelegates.AssemblyInfoInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\EventsAndMulticastDelegates\EventsAndMulticastDelegates\obj\Debug\net7.0\EventsAndMulticastDelegates.AssemblyInfo.cs
+D:\programowanie\GitCourses\courses\CS_Course\EventsAndMulticastDelegates\EventsAndMulticastDelegates\obj\Debug\net7.0\EventsAndMulticastDelegates.csproj.CoreCompileInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\EventsAndMulticastDelegates\EventsAndMulticastDelegates\bin\Debug\net7.0\EventsAndMulticastDelegates.exe
+D:\programowanie\GitCourses\courses\CS_Course\EventsAndMulticastDelegates\EventsAndMulticastDelegates\bin\Debug\net7.0\EventsAndMulticastDelegates.deps.json
+D:\programowanie\GitCourses\courses\CS_Course\EventsAndMulticastDelegates\EventsAndMulticastDelegates\bin\Debug\net7.0\EventsAndMulticastDelegates.runtimeconfig.json
+D:\programowanie\GitCourses\courses\CS_Course\EventsAndMulticastDelegates\EventsAndMulticastDelegates\bin\Debug\net7.0\EventsAndMulticastDelegates.dll
+D:\programowanie\GitCourses\courses\CS_Course\EventsAndMulticastDelegates\EventsAndMulticastDelegates\bin\Debug\net7.0\EventsAndMulticastDelegates.pdb
+D:\programowanie\GitCourses\courses\CS_Course\EventsAndMulticastDelegates\EventsAndMulticastDelegates\obj\Debug\net7.0\EventsAndMulticastDelegates.dll
+D:\programowanie\GitCourses\courses\CS_Course\EventsAndMulticastDelegates\EventsAndMulticastDelegates\obj\Debug\net7.0\refint\EventsAndMulticastDelegates.dll
+D:\programowanie\GitCourses\courses\CS_Course\EventsAndMulticastDelegates\EventsAndMulticastDelegates\obj\Debug\net7.0\EventsAndMulticastDelegates.pdb
+D:\programowanie\GitCourses\courses\CS_Course\EventsAndMulticastDelegates\EventsAndMulticastDelegates\obj\Debug\net7.0\EventsAndMulticastDelegates.genruntimeconfig.cache
+D:\programowanie\GitCourses\courses\CS_Course\EventsAndMulticastDelegates\EventsAndMulticastDelegates\obj\Debug\net7.0\ref\EventsAndMulticastDelegates.dll
