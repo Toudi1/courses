@@ -1,0 +1,15 @@
+D:\programowanie\GitCourses\courses\CS_Course\LambdaExpressionsExercise\LambdaExpressionsExercise\bin\Debug\net7.0\LambdaExpressionsExercise.exe
+D:\programowanie\GitCourses\courses\CS_Course\LambdaExpressionsExercise\LambdaExpressionsExercise\bin\Debug\net7.0\LambdaExpressionsExercise.deps.json
+D:\programowanie\GitCourses\courses\CS_Course\LambdaExpressionsExercise\LambdaExpressionsExercise\bin\Debug\net7.0\LambdaExpressionsExercise.runtimeconfig.json
+D:\programowanie\GitCourses\courses\CS_Course\LambdaExpressionsExercise\LambdaExpressionsExercise\bin\Debug\net7.0\LambdaExpressionsExercise.dll
+D:\programowanie\GitCourses\courses\CS_Course\LambdaExpressionsExercise\LambdaExpressionsExercise\bin\Debug\net7.0\LambdaExpressionsExercise.pdb
+D:\programowanie\GitCourses\courses\CS_Course\LambdaExpressionsExercise\LambdaExpressionsExercise\obj\Debug\net7.0\LambdaExpressionsExercise.csproj.AssemblyReference.cache
+D:\programowanie\GitCourses\courses\CS_Course\LambdaExpressionsExercise\LambdaExpressionsExercise\obj\Debug\net7.0\LambdaExpressionsExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\programowanie\GitCourses\courses\CS_Course\LambdaExpressionsExercise\LambdaExpressionsExercise\obj\Debug\net7.0\LambdaExpressionsExercise.AssemblyInfoInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\LambdaExpressionsExercise\LambdaExpressionsExercise\obj\Debug\net7.0\LambdaExpressionsExercise.AssemblyInfo.cs
+D:\programowanie\GitCourses\courses\CS_Course\LambdaExpressionsExercise\LambdaExpressionsExercise\obj\Debug\net7.0\LambdaExpressionsExercise.csproj.CoreCompileInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\LambdaExpressionsExercise\LambdaExpressionsExercise\obj\Debug\net7.0\LambdaExpressionsExercise.dll
+D:\programowanie\GitCourses\courses\CS_Course\LambdaExpressionsExercise\LambdaExpressionsExercise\obj\Debug\net7.0\refint\LambdaExpressionsExercise.dll
+D:\programowanie\GitCourses\courses\CS_Course\LambdaExpressionsExercise\LambdaExpressionsExercise\obj\Debug\net7.0\LambdaExpressionsExercise.pdb
+D:\programowanie\GitCourses\courses\CS_Course\LambdaExpressionsExercise\LambdaExpressionsExercise\obj\Debug\net7.0\LambdaExpressionsExercise.genruntimeconfig.cache
+D:\programowanie\GitCourses\courses\CS_Course\LambdaExpressionsExercise\LambdaExpressionsExercise\obj\Debug\net7.0\ref\LambdaExpressionsExercise.dll
