@@ -1,0 +1,16 @@
+D:\programowanie\GitCourses\courses\CS_Course\WPF_04C_Events_in_XAML\WPF_04C_Events_in_XAML\obj\Debug\WPF_04C_Events_in_XAML.csproj.AssemblyReference.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_04C_Events_in_XAML\WPF_04C_Events_in_XAML\obj\Debug\WPF_04C_Events_in_XAML.csproj.SuggestedBindingRedirects.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_04C_Events_in_XAML\WPF_04C_Events_in_XAML\obj\Debug\MainWindow.g.cs
+D:\programowanie\GitCourses\courses\CS_Course\WPF_04C_Events_in_XAML\WPF_04C_Events_in_XAML\obj\Debug\App.g.cs
+D:\programowanie\GitCourses\courses\CS_Course\WPF_04C_Events_in_XAML\WPF_04C_Events_in_XAML\obj\Debug\WPF_04C_Events_in_XAML_MarkupCompile.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_04C_Events_in_XAML\WPF_04C_Events_in_XAML\obj\Debug\WPF_04C_Events_in_XAML_MarkupCompile.lref
+D:\programowanie\GitCourses\courses\CS_Course\WPF_04C_Events_in_XAML\WPF_04C_Events_in_XAML\bin\Debug\WPF_04C_Events_in_XAML.exe.config
+D:\programowanie\GitCourses\courses\CS_Course\WPF_04C_Events_in_XAML\WPF_04C_Events_in_XAML\bin\Debug\WPF_04C_Events_in_XAML.exe
+D:\programowanie\GitCourses\courses\CS_Course\WPF_04C_Events_in_XAML\WPF_04C_Events_in_XAML\bin\Debug\WPF_04C_Events_in_XAML.pdb
+D:\programowanie\GitCourses\courses\CS_Course\WPF_04C_Events_in_XAML\WPF_04C_Events_in_XAML\obj\Debug\MainWindow.baml
+D:\programowanie\GitCourses\courses\CS_Course\WPF_04C_Events_in_XAML\WPF_04C_Events_in_XAML\obj\Debug\WPF_04C_Events_in_XAML.g.resources
+D:\programowanie\GitCourses\courses\CS_Course\WPF_04C_Events_in_XAML\WPF_04C_Events_in_XAML\obj\Debug\WPF_04C_Events_in_XAML.Properties.Resources.resources
+D:\programowanie\GitCourses\courses\CS_Course\WPF_04C_Events_in_XAML\WPF_04C_Events_in_XAML\obj\Debug\WPF_04C_Events_in_XAML.csproj.GenerateResource.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_04C_Events_in_XAML\WPF_04C_Events_in_XAML\obj\Debug\WPF_04C_Events_in_XAML.csproj.CoreCompileInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_04C_Events_in_XAML\WPF_04C_Events_in_XAML\obj\Debug\WPF_04C_Events_in_XAML.exe
+D:\programowanie\GitCourses\courses\CS_Course\WPF_04C_Events_in_XAML\WPF_04C_Events_in_XAML\obj\Debug\WPF_04C_Events_in_XAML.pdb
