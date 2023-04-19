@@ -1,0 +1,16 @@
+D:\programowanie\GitCourses\courses\CS_Course\WPF_06C-DependencyProperties\WPF_06C-DependencyProperties\bin\Debug\WPF_06C-DependencyProperties.exe.config
+D:\programowanie\GitCourses\courses\CS_Course\WPF_06C-DependencyProperties\WPF_06C-DependencyProperties\bin\Debug\WPF_06C-DependencyProperties.exe
+D:\programowanie\GitCourses\courses\CS_Course\WPF_06C-DependencyProperties\WPF_06C-DependencyProperties\bin\Debug\WPF_06C-DependencyProperties.pdb
+D:\programowanie\GitCourses\courses\CS_Course\WPF_06C-DependencyProperties\WPF_06C-DependencyProperties\obj\Debug\WPF_06C-DependencyProperties.csproj.AssemblyReference.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_06C-DependencyProperties\WPF_06C-DependencyProperties\obj\Debug\WPF_06C-DependencyProperties.csproj.SuggestedBindingRedirects.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_06C-DependencyProperties\WPF_06C-DependencyProperties\obj\Debug\MainWindow.g.cs
+D:\programowanie\GitCourses\courses\CS_Course\WPF_06C-DependencyProperties\WPF_06C-DependencyProperties\obj\Debug\App.g.cs
+D:\programowanie\GitCourses\courses\CS_Course\WPF_06C-DependencyProperties\WPF_06C-DependencyProperties\obj\Debug\WPF_06C-DependencyProperties_MarkupCompile.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_06C-DependencyProperties\WPF_06C-DependencyProperties\obj\Debug\WPF_06C-DependencyProperties_MarkupCompile.lref
+D:\programowanie\GitCourses\courses\CS_Course\WPF_06C-DependencyProperties\WPF_06C-DependencyProperties\obj\Debug\MainWindow.baml
+D:\programowanie\GitCourses\courses\CS_Course\WPF_06C-DependencyProperties\WPF_06C-DependencyProperties\obj\Debug\WPF_06C-DependencyProperties.g.resources
+D:\programowanie\GitCourses\courses\CS_Course\WPF_06C-DependencyProperties\WPF_06C-DependencyProperties\obj\Debug\WPF_06C_DependencyProperties.Properties.Resources.resources
+D:\programowanie\GitCourses\courses\CS_Course\WPF_06C-DependencyProperties\WPF_06C-DependencyProperties\obj\Debug\WPF_06C-DependencyProperties.csproj.GenerateResource.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_06C-DependencyProperties\WPF_06C-DependencyProperties\obj\Debug\WPF_06C-DependencyProperties.csproj.CoreCompileInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_06C-DependencyProperties\WPF_06C-DependencyProperties\obj\Debug\WPF_06C-DependencyProperties.exe
+D:\programowanie\GitCourses\courses\CS_Course\WPF_06C-DependencyProperties\WPF_06C-DependencyProperties\obj\Debug\WPF_06C-DependencyProperties.pdb
