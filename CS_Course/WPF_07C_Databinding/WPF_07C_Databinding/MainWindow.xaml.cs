@@ -23,6 +23,8 @@ namespace WPF_07C_Databinding
         public MainWindow()
         {
             InitializeComponent();
+            MySlider.Value = 35;
+            MyTextBox.Text = MySlider.Value.ToString();
         }
     }
 }
