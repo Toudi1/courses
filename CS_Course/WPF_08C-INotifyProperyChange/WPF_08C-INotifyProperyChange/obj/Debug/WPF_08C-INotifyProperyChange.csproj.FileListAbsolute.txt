@@ -1,0 +1,16 @@
+D:\programowanie\GitCourses\courses\CS_Course\WPF_08C-INotifyProperyChange\WPF_08C-INotifyProperyChange\obj\Debug\WPF_08C-INotifyProperyChange.csproj.AssemblyReference.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_08C-INotifyProperyChange\WPF_08C-INotifyProperyChange\obj\Debug\WPF_08C-INotifyProperyChange.csproj.SuggestedBindingRedirects.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_08C-INotifyProperyChange\WPF_08C-INotifyProperyChange\obj\Debug\MainWindow.g.cs
+D:\programowanie\GitCourses\courses\CS_Course\WPF_08C-INotifyProperyChange\WPF_08C-INotifyProperyChange\obj\Debug\App.g.cs
+D:\programowanie\GitCourses\courses\CS_Course\WPF_08C-INotifyProperyChange\WPF_08C-INotifyProperyChange\obj\Debug\WPF_08C-INotifyProperyChange_MarkupCompile.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_08C-INotifyProperyChange\WPF_08C-INotifyProperyChange\obj\Debug\WPF_08C-INotifyProperyChange_MarkupCompile.lref
+D:\programowanie\GitCourses\courses\CS_Course\WPF_08C-INotifyProperyChange\WPF_08C-INotifyProperyChange\bin\Debug\WPF_08C-INotifyProperyChange.exe.config
+D:\programowanie\GitCourses\courses\CS_Course\WPF_08C-INotifyProperyChange\WPF_08C-INotifyProperyChange\bin\Debug\WPF_08C-INotifyProperyChange.exe
+D:\programowanie\GitCourses\courses\CS_Course\WPF_08C-INotifyProperyChange\WPF_08C-INotifyProperyChange\bin\Debug\WPF_08C-INotifyProperyChange.pdb
+D:\programowanie\GitCourses\courses\CS_Course\WPF_08C-INotifyProperyChange\WPF_08C-INotifyProperyChange\obj\Debug\MainWindow.baml
+D:\programowanie\GitCourses\courses\CS_Course\WPF_08C-INotifyProperyChange\WPF_08C-INotifyProperyChange\obj\Debug\WPF_08C-INotifyProperyChange.g.resources
+D:\programowanie\GitCourses\courses\CS_Course\WPF_08C-INotifyProperyChange\WPF_08C-INotifyProperyChange\obj\Debug\WPF_08C_INotifyProperyChange.Properties.Resources.resources
+D:\programowanie\GitCourses\courses\CS_Course\WPF_08C-INotifyProperyChange\WPF_08C-INotifyProperyChange\obj\Debug\WPF_08C-INotifyProperyChange.csproj.GenerateResource.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_08C-INotifyProperyChange\WPF_08C-INotifyProperyChange\obj\Debug\WPF_08C-INotifyProperyChange.csproj.CoreCompileInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_08C-INotifyProperyChange\WPF_08C-INotifyProperyChange\obj\Debug\WPF_08C-INotifyProperyChange.exe
+D:\programowanie\GitCourses\courses\CS_Course\WPF_08C-INotifyProperyChange\WPF_08C-INotifyProperyChange\obj\Debug\WPF_08C-INotifyProperyChange.pdb
