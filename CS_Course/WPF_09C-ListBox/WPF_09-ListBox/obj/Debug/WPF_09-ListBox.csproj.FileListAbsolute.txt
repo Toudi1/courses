@@ -1,0 +1,16 @@
+D:\programowanie\GitCourses\courses\CS_Course\WPF_09C-ListBox\WPF_09-ListBox\bin\Debug\WPF_09-ListBox.exe.config
+D:\programowanie\GitCourses\courses\CS_Course\WPF_09C-ListBox\WPF_09-ListBox\bin\Debug\WPF_09-ListBox.exe
+D:\programowanie\GitCourses\courses\CS_Course\WPF_09C-ListBox\WPF_09-ListBox\bin\Debug\WPF_09-ListBox.pdb
+D:\programowanie\GitCourses\courses\CS_Course\WPF_09C-ListBox\WPF_09-ListBox\obj\Debug\WPF_09-ListBox.csproj.AssemblyReference.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_09C-ListBox\WPF_09-ListBox\obj\Debug\WPF_09-ListBox.csproj.SuggestedBindingRedirects.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_09C-ListBox\WPF_09-ListBox\obj\Debug\MainWindow.g.cs
+D:\programowanie\GitCourses\courses\CS_Course\WPF_09C-ListBox\WPF_09-ListBox\obj\Debug\App.g.cs
+D:\programowanie\GitCourses\courses\CS_Course\WPF_09C-ListBox\WPF_09-ListBox\obj\Debug\WPF_09-ListBox_MarkupCompile.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_09C-ListBox\WPF_09-ListBox\obj\Debug\WPF_09-ListBox_MarkupCompile.lref
+D:\programowanie\GitCourses\courses\CS_Course\WPF_09C-ListBox\WPF_09-ListBox\obj\Debug\MainWindow.baml
+D:\programowanie\GitCourses\courses\CS_Course\WPF_09C-ListBox\WPF_09-ListBox\obj\Debug\WPF_09-ListBox.g.resources
+D:\programowanie\GitCourses\courses\CS_Course\WPF_09C-ListBox\WPF_09-ListBox\obj\Debug\WPF_09_ListBox.Properties.Resources.resources
+D:\programowanie\GitCourses\courses\CS_Course\WPF_09C-ListBox\WPF_09-ListBox\obj\Debug\WPF_09-ListBox.csproj.GenerateResource.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_09C-ListBox\WPF_09-ListBox\obj\Debug\WPF_09-ListBox.csproj.CoreCompileInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_09C-ListBox\WPF_09-ListBox\obj\Debug\WPF_09-ListBox.exe
+D:\programowanie\GitCourses\courses\CS_Course\WPF_09C-ListBox\WPF_09-ListBox\obj\Debug\WPF_09-ListBox.pdb
