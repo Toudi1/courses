@@ -1,0 +1,16 @@
+D:\programowanie\GitCourses\courses\CS_Course\WPF_13C-RadioButton\WPF_13C-RadioButton\bin\Debug\WPF_13C-RadioButton.exe.config
+D:\programowanie\GitCourses\courses\CS_Course\WPF_13C-RadioButton\WPF_13C-RadioButton\bin\Debug\WPF_13C-RadioButton.exe
+D:\programowanie\GitCourses\courses\CS_Course\WPF_13C-RadioButton\WPF_13C-RadioButton\bin\Debug\WPF_13C-RadioButton.pdb
+D:\programowanie\GitCourses\courses\CS_Course\WPF_13C-RadioButton\WPF_13C-RadioButton\obj\Debug\WPF_13C-RadioButton.csproj.AssemblyReference.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_13C-RadioButton\WPF_13C-RadioButton\obj\Debug\WPF_13C-RadioButton.csproj.SuggestedBindingRedirects.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_13C-RadioButton\WPF_13C-RadioButton\obj\Debug\MainWindow.g.cs
+D:\programowanie\GitCourses\courses\CS_Course\WPF_13C-RadioButton\WPF_13C-RadioButton\obj\Debug\App.g.cs
+D:\programowanie\GitCourses\courses\CS_Course\WPF_13C-RadioButton\WPF_13C-RadioButton\obj\Debug\WPF_13C-RadioButton_MarkupCompile.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_13C-RadioButton\WPF_13C-RadioButton\obj\Debug\WPF_13C-RadioButton_MarkupCompile.lref
+D:\programowanie\GitCourses\courses\CS_Course\WPF_13C-RadioButton\WPF_13C-RadioButton\obj\Debug\MainWindow.baml
+D:\programowanie\GitCourses\courses\CS_Course\WPF_13C-RadioButton\WPF_13C-RadioButton\obj\Debug\WPF_13C-RadioButton.g.resources
+D:\programowanie\GitCourses\courses\CS_Course\WPF_13C-RadioButton\WPF_13C-RadioButton\obj\Debug\WPF_13C_RadioButton.Properties.Resources.resources
+D:\programowanie\GitCourses\courses\CS_Course\WPF_13C-RadioButton\WPF_13C-RadioButton\obj\Debug\WPF_13C-RadioButton.csproj.GenerateResource.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_13C-RadioButton\WPF_13C-RadioButton\obj\Debug\WPF_13C-RadioButton.csproj.CoreCompileInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_13C-RadioButton\WPF_13C-RadioButton\obj\Debug\WPF_13C-RadioButton.exe
+D:\programowanie\GitCourses\courses\CS_Course\WPF_13C-RadioButton\WPF_13C-RadioButton\obj\Debug\WPF_13C-RadioButton.pdb
