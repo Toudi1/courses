@@ -1,0 +1,16 @@
+D:\programowanie\GitCourses\courses\CS_Course\WPF_12C-ToolTips\WPF_12C-ToolTips\bin\Debug\WPF_12C-ToolTips.exe.config
+D:\programowanie\GitCourses\courses\CS_Course\WPF_12C-ToolTips\WPF_12C-ToolTips\bin\Debug\WPF_12C-ToolTips.exe
+D:\programowanie\GitCourses\courses\CS_Course\WPF_12C-ToolTips\WPF_12C-ToolTips\bin\Debug\WPF_12C-ToolTips.pdb
+D:\programowanie\GitCourses\courses\CS_Course\WPF_12C-ToolTips\WPF_12C-ToolTips\obj\Debug\WPF_12C-ToolTips.csproj.AssemblyReference.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_12C-ToolTips\WPF_12C-ToolTips\obj\Debug\WPF_12C-ToolTips.csproj.SuggestedBindingRedirects.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_12C-ToolTips\WPF_12C-ToolTips\obj\Debug\MainWindow.g.cs
+D:\programowanie\GitCourses\courses\CS_Course\WPF_12C-ToolTips\WPF_12C-ToolTips\obj\Debug\App.g.cs
+D:\programowanie\GitCourses\courses\CS_Course\WPF_12C-ToolTips\WPF_12C-ToolTips\obj\Debug\WPF_12C-ToolTips_MarkupCompile.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_12C-ToolTips\WPF_12C-ToolTips\obj\Debug\WPF_12C-ToolTips_MarkupCompile.lref
+D:\programowanie\GitCourses\courses\CS_Course\WPF_12C-ToolTips\WPF_12C-ToolTips\obj\Debug\MainWindow.baml
+D:\programowanie\GitCourses\courses\CS_Course\WPF_12C-ToolTips\WPF_12C-ToolTips\obj\Debug\WPF_12C-ToolTips.g.resources
+D:\programowanie\GitCourses\courses\CS_Course\WPF_12C-ToolTips\WPF_12C-ToolTips\obj\Debug\WPF_12C_ToolTips.Properties.Resources.resources
+D:\programowanie\GitCourses\courses\CS_Course\WPF_12C-ToolTips\WPF_12C-ToolTips\obj\Debug\WPF_12C-ToolTips.csproj.GenerateResource.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_12C-ToolTips\WPF_12C-ToolTips\obj\Debug\WPF_12C-ToolTips.csproj.CoreCompileInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_12C-ToolTips\WPF_12C-ToolTips\obj\Debug\WPF_12C-ToolTips.exe
+D:\programowanie\GitCourses\courses\CS_Course\WPF_12C-ToolTips\WPF_12C-ToolTips\obj\Debug\WPF_12C-ToolTips.pdb
