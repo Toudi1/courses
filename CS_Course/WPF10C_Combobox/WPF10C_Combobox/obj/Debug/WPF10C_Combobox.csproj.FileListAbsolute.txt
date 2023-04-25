@@ -1,0 +1,16 @@
+D:\programowanie\GitCourses\courses\CS_Course\WPF10C_Combobox\WPF10C_Combobox\bin\Debug\WPF10C_Combobox.exe.config
+D:\programowanie\GitCourses\courses\CS_Course\WPF10C_Combobox\WPF10C_Combobox\bin\Debug\WPF10C_Combobox.exe
+D:\programowanie\GitCourses\courses\CS_Course\WPF10C_Combobox\WPF10C_Combobox\bin\Debug\WPF10C_Combobox.pdb
+D:\programowanie\GitCourses\courses\CS_Course\WPF10C_Combobox\WPF10C_Combobox\obj\Debug\WPF10C_Combobox.csproj.AssemblyReference.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF10C_Combobox\WPF10C_Combobox\obj\Debug\WPF10C_Combobox.csproj.SuggestedBindingRedirects.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF10C_Combobox\WPF10C_Combobox\obj\Debug\MainWindow.g.cs
+D:\programowanie\GitCourses\courses\CS_Course\WPF10C_Combobox\WPF10C_Combobox\obj\Debug\App.g.cs
+D:\programowanie\GitCourses\courses\CS_Course\WPF10C_Combobox\WPF10C_Combobox\obj\Debug\WPF10C_Combobox_MarkupCompile.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF10C_Combobox\WPF10C_Combobox\obj\Debug\WPF10C_Combobox_MarkupCompile.lref
+D:\programowanie\GitCourses\courses\CS_Course\WPF10C_Combobox\WPF10C_Combobox\obj\Debug\MainWindow.baml
+D:\programowanie\GitCourses\courses\CS_Course\WPF10C_Combobox\WPF10C_Combobox\obj\Debug\WPF10C_Combobox.g.resources
+D:\programowanie\GitCourses\courses\CS_Course\WPF10C_Combobox\WPF10C_Combobox\obj\Debug\WPF10C_Combobox.Properties.Resources.resources
+D:\programowanie\GitCourses\courses\CS_Course\WPF10C_Combobox\WPF10C_Combobox\obj\Debug\WPF10C_Combobox.csproj.GenerateResource.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF10C_Combobox\WPF10C_Combobox\obj\Debug\WPF10C_Combobox.csproj.CoreCompileInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF10C_Combobox\WPF10C_Combobox\obj\Debug\WPF10C_Combobox.exe
+D:\programowanie\GitCourses\courses\CS_Course\WPF10C_Combobox\WPF10C_Combobox\obj\Debug\WPF10C_Combobox.pdb

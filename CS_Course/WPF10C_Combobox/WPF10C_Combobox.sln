@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF10C_Combobox", "WPF10C_Combobox\WPF10C_Combobox.csproj", "{5B941F88-BFCD-4073-86C2-4835989D5EFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B941F88-BFCD-4073-86C2-4835989D5EFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B941F88-BFCD-4073-86C2-4835989D5EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B941F88-BFCD-4073-86C2-4835989D5EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B941F88-BFCD-4073-86C2-4835989D5EFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87935B0A-D55B-4C2F-B13F-28B2ACE0883C}
+	EndGlobalSection
+EndGlobal
