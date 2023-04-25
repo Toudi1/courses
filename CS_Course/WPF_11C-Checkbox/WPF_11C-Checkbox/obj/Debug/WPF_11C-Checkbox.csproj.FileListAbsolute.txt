@@ -1,0 +1,16 @@
+D:\programowanie\GitCourses\courses\CS_Course\WPF_11C-Checkbox\WPF_11C-Checkbox\bin\Debug\WPF_11C-Checkbox.exe.config
+D:\programowanie\GitCourses\courses\CS_Course\WPF_11C-Checkbox\WPF_11C-Checkbox\bin\Debug\WPF_11C-Checkbox.exe
+D:\programowanie\GitCourses\courses\CS_Course\WPF_11C-Checkbox\WPF_11C-Checkbox\bin\Debug\WPF_11C-Checkbox.pdb
+D:\programowanie\GitCourses\courses\CS_Course\WPF_11C-Checkbox\WPF_11C-Checkbox\obj\Debug\WPF_11C-Checkbox.csproj.AssemblyReference.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_11C-Checkbox\WPF_11C-Checkbox\obj\Debug\WPF_11C-Checkbox.csproj.SuggestedBindingRedirects.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_11C-Checkbox\WPF_11C-Checkbox\obj\Debug\MainWindow.g.cs
+D:\programowanie\GitCourses\courses\CS_Course\WPF_11C-Checkbox\WPF_11C-Checkbox\obj\Debug\App.g.cs
+D:\programowanie\GitCourses\courses\CS_Course\WPF_11C-Checkbox\WPF_11C-Checkbox\obj\Debug\WPF_11C-Checkbox_MarkupCompile.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_11C-Checkbox\WPF_11C-Checkbox\obj\Debug\WPF_11C-Checkbox_MarkupCompile.lref
+D:\programowanie\GitCourses\courses\CS_Course\WPF_11C-Checkbox\WPF_11C-Checkbox\obj\Debug\MainWindow.baml
+D:\programowanie\GitCourses\courses\CS_Course\WPF_11C-Checkbox\WPF_11C-Checkbox\obj\Debug\WPF_11C-Checkbox.g.resources
+D:\programowanie\GitCourses\courses\CS_Course\WPF_11C-Checkbox\WPF_11C-Checkbox\obj\Debug\WPF_11C_Checkbox.Properties.Resources.resources
+D:\programowanie\GitCourses\courses\CS_Course\WPF_11C-Checkbox\WPF_11C-Checkbox\obj\Debug\WPF_11C-Checkbox.csproj.GenerateResource.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_11C-Checkbox\WPF_11C-Checkbox\obj\Debug\WPF_11C-Checkbox.csproj.CoreCompileInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_11C-Checkbox\WPF_11C-Checkbox\obj\Debug\WPF_11C-Checkbox.exe
+D:\programowanie\GitCourses\courses\CS_Course\WPF_11C-Checkbox\WPF_11C-Checkbox\obj\Debug\WPF_11C-Checkbox.pdb
