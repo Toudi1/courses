@@ -1,0 +1,16 @@
+D:\programowanie\GitCourses\courses\CS_Course\WPF_Zoo_Manager\WPF_Zoo_Manager\bin\Debug\WPF_Zoo_Manager.exe.config
+D:\programowanie\GitCourses\courses\CS_Course\WPF_Zoo_Manager\WPF_Zoo_Manager\bin\Debug\WPF_Zoo_Manager.exe
+D:\programowanie\GitCourses\courses\CS_Course\WPF_Zoo_Manager\WPF_Zoo_Manager\bin\Debug\WPF_Zoo_Manager.pdb
+D:\programowanie\GitCourses\courses\CS_Course\WPF_Zoo_Manager\WPF_Zoo_Manager\obj\Debug\WPF_Zoo_Manager.csproj.AssemblyReference.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_Zoo_Manager\WPF_Zoo_Manager\obj\Debug\WPF_Zoo_Manager.csproj.SuggestedBindingRedirects.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_Zoo_Manager\WPF_Zoo_Manager\obj\Debug\MainWindow.g.cs
+D:\programowanie\GitCourses\courses\CS_Course\WPF_Zoo_Manager\WPF_Zoo_Manager\obj\Debug\App.g.cs
+D:\programowanie\GitCourses\courses\CS_Course\WPF_Zoo_Manager\WPF_Zoo_Manager\obj\Debug\WPF_Zoo_Manager_MarkupCompile.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_Zoo_Manager\WPF_Zoo_Manager\obj\Debug\WPF_Zoo_Manager_MarkupCompile.lref
+D:\programowanie\GitCourses\courses\CS_Course\WPF_Zoo_Manager\WPF_Zoo_Manager\obj\Debug\MainWindow.baml
+D:\programowanie\GitCourses\courses\CS_Course\WPF_Zoo_Manager\WPF_Zoo_Manager\obj\Debug\WPF_Zoo_Manager.g.resources
+D:\programowanie\GitCourses\courses\CS_Course\WPF_Zoo_Manager\WPF_Zoo_Manager\obj\Debug\WPF_Zoo_Manager.Properties.Resources.resources
+D:\programowanie\GitCourses\courses\CS_Course\WPF_Zoo_Manager\WPF_Zoo_Manager\obj\Debug\WPF_Zoo_Manager.csproj.GenerateResource.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_Zoo_Manager\WPF_Zoo_Manager\obj\Debug\WPF_Zoo_Manager.csproj.CoreCompileInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\WPF_Zoo_Manager\WPF_Zoo_Manager\obj\Debug\WPF_Zoo_Manager.exe
+D:\programowanie\GitCourses\courses\CS_Course\WPF_Zoo_Manager\WPF_Zoo_Manager\obj\Debug\WPF_Zoo_Manager.pdb
