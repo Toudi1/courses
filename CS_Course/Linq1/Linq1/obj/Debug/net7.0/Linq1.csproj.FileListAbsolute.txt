@@ -1,0 +1,15 @@
+D:\programowanie\GitCourses\courses\CS_Course\Linq1\Linq1\obj\Debug\net7.0\Linq1.csproj.AssemblyReference.cache
+D:\programowanie\GitCourses\courses\CS_Course\Linq1\Linq1\obj\Debug\net7.0\Linq1.GeneratedMSBuildEditorConfig.editorconfig
+D:\programowanie\GitCourses\courses\CS_Course\Linq1\Linq1\obj\Debug\net7.0\Linq1.AssemblyInfoInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\Linq1\Linq1\obj\Debug\net7.0\Linq1.AssemblyInfo.cs
+D:\programowanie\GitCourses\courses\CS_Course\Linq1\Linq1\obj\Debug\net7.0\Linq1.csproj.CoreCompileInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\Linq1\Linq1\bin\Debug\net7.0\Linq1.exe
+D:\programowanie\GitCourses\courses\CS_Course\Linq1\Linq1\bin\Debug\net7.0\Linq1.deps.json
+D:\programowanie\GitCourses\courses\CS_Course\Linq1\Linq1\bin\Debug\net7.0\Linq1.runtimeconfig.json
+D:\programowanie\GitCourses\courses\CS_Course\Linq1\Linq1\bin\Debug\net7.0\Linq1.dll
+D:\programowanie\GitCourses\courses\CS_Course\Linq1\Linq1\bin\Debug\net7.0\Linq1.pdb
+D:\programowanie\GitCourses\courses\CS_Course\Linq1\Linq1\obj\Debug\net7.0\Linq1.dll
+D:\programowanie\GitCourses\courses\CS_Course\Linq1\Linq1\obj\Debug\net7.0\refint\Linq1.dll
+D:\programowanie\GitCourses\courses\CS_Course\Linq1\Linq1\obj\Debug\net7.0\Linq1.pdb
+D:\programowanie\GitCourses\courses\CS_Course\Linq1\Linq1\obj\Debug\net7.0\Linq1.genruntimeconfig.cache
+D:\programowanie\GitCourses\courses\CS_Course\Linq1\Linq1\obj\Debug\net7.0\ref\Linq1.dll
