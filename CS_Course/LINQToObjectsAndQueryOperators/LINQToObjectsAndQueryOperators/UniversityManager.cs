@@ -24,10 +24,10 @@ namespace LINQToObjectsAndQueryOperators
             // Let's add some Students
             studens.Add(new Studen { Id = 1, Name = "Carla", Gender = "femal", Age = 17, UniversityId = 1 });
             studens.Add(new Studen { Id = 2, Name = "Toni", Gender = "male", Age = 21, UniversityId = 1 });
-            studens.Add(new Studen { Id = 2, Name = "Frank", Gender = "male", Age = 22, UniversityId = 2 });
-            studens.Add(new Studen { Id = 3, Name = "Leyla", Gender = "female", Age = 19, UniversityId = 2 });
-            studens.Add(new Studen { Id = 4, Name = "James", Gender = "trans-gender", Age = 25, UniversityId = 2 });
-            studens.Add(new Studen { Id = 5, Name = "Linda", Gender = "female", Age = 22, UniversityId = 2 });
+            studens.Add(new Studen { Id = 3, Name = "Frank", Gender = "male", Age = 22, UniversityId = 2 });
+            studens.Add(new Studen { Id = 4, Name = "Leyla", Gender = "female", Age = 19, UniversityId = 2 });
+            studens.Add(new Studen { Id = 5, Name = "James", Gender = "trans-gender", Age = 25, UniversityId = 2 });
+            studens.Add(new Studen { Id = 6, Name = "Linda", Gender = "female", Age = 22, UniversityId = 2 });
 
         }
 
@@ -52,5 +52,61 @@ namespace LINQToObjectsAndQueryOperators
             }
         }
 
+        public void SortStudentsByAge()
+        {
+            var sortedStudents = from student in studens orderby student.Age select student;
+
+            Console.WriteLine("Studnents sorted by age: ");
+
+            foreach (Studen student in sortedStudents)
+            {
+                student.Print();
+            }
+        }
+
+        public void AllStudentsFromBeijingTech()
+        {
+            IEnumerable<Studen> bjtStudent = from student in studens
+                                             join university in universities on student.UniversityId equals university.Id
+                                             where university.Name == "Beijing Tech" select student;
+
+            Console.WriteLine("All Beijing Tech students:");
+
+            foreach (Studen student in bjtStudent) 
+            {
+                student.Print();
+            }
+        }
+
+        public void AllStudentsFromGivenUniversityId(int universityId)
+        {
+            IEnumerable<University> selectedUniversity = from university in universities where university.Id == universityId
+                                                         select university;
+
+            IEnumerable<Studen> selectedUniversityIdStudent = from student in studens
+                                             join university in universities on student.UniversityId equals university.Id
+                                             where university.Name == selectedUniversity.ElementAt(0).Name select student;
+
+            Console.WriteLine("All {0} students:", selectedUniversity.ElementAt(0).Name);
+
+            foreach (Studen student in selectedUniversityIdStudent) 
+            {
+                student.Print();
+            }
+        }
+
+        public void AllStudentsFromThatUni(int Id)
+        {
+            IEnumerable<Studen> myStudents = from student in studens
+                                             join university in universities on student.UniversityId equals university.Id
+                                             where university.Id == Id
+                                             select student;
+
+            Console.WriteLine("Students from that uni {0}", Id);
+            foreach (Studen studen in myStudents)
+            {
+                studen.Print();
+            }
+        }
     }
 }
