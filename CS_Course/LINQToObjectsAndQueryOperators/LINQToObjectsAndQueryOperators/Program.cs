@@ -31,6 +31,7 @@ catch(Exception)
     Console.WriteLine("Wrong input!");
 }
 
+um.StudentAndUniversityNameCollection();
 
 Console.ReadKey();
 

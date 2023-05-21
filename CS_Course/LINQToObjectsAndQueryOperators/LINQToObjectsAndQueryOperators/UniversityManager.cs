@@ -68,11 +68,12 @@ namespace LINQToObjectsAndQueryOperators
         {
             IEnumerable<Studen> bjtStudent = from student in studens
                                              join university in universities on student.UniversityId equals university.Id
-                                             where university.Name == "Beijing Tech" select student;
+                                             where university.Name == "Beijing Tech"
+                                             select student;
 
             Console.WriteLine("All Beijing Tech students:");
 
-            foreach (Studen student in bjtStudent) 
+            foreach (Studen student in bjtStudent)
             {
                 student.Print();
             }
@@ -80,16 +81,18 @@ namespace LINQToObjectsAndQueryOperators
 
         public void AllStudentsFromGivenUniversityId(int universityId)
         {
-            IEnumerable<University> selectedUniversity = from university in universities where university.Id == universityId
+            IEnumerable<University> selectedUniversity = from university in universities
+                                                         where university.Id == universityId
                                                          select university;
 
             IEnumerable<Studen> selectedUniversityIdStudent = from student in studens
-                                             join university in universities on student.UniversityId equals university.Id
-                                             where university.Name == selectedUniversity.ElementAt(0).Name select student;
+                                                              join university in universities on student.UniversityId equals university.Id
+                                                              where university.Name == selectedUniversity.ElementAt(0).Name
+                                                              select student;
 
             Console.WriteLine("All {0} students:", selectedUniversity.ElementAt(0).Name);
 
-            foreach (Studen student in selectedUniversityIdStudent) 
+            foreach (Studen student in selectedUniversityIdStudent)
             {
                 student.Print();
             }
@@ -106,6 +109,20 @@ namespace LINQToObjectsAndQueryOperators
             foreach (Studen studen in myStudents)
             {
                 studen.Print();
+            }
+        }
+
+        public void StudentAndUniversityNameCollection()
+        {
+            var newCollection = from student in studens
+                                join university in universities on student.UniversityId equals university.Id
+                                orderby student.Name
+                                select new { StudentName = student.Name, UniversityName = university.Name };
+
+            Console.WriteLine("new collection with students and their universities");
+            foreach (var col in newCollection)
+            {
+                Console.WriteLine("{0} studies in {1}", col.StudentName, col.UniversityName);
             }
         }
     }
