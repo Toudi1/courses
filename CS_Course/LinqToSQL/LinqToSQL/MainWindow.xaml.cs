@@ -36,7 +36,10 @@ namespace LinqToSQL
             //InsertLecture();
             //InsertStudenLectureAssociations();
             //GetUniversityOfToni();
-            GetTonisLectures();
+            //GetTonisLectures();
+            //GetAllStudentsFromeYale();
+            //GetAllUniversitiesWiyhTransgenders();
+            AllLecturesOnOxford();
         }
 
         public void InsertUniversities()
@@ -65,7 +68,7 @@ namespace LinqToSQL
 
             students.Add(new Student { Name = "John", Gender = "male", UniversityId = yale.Id });
             students.Add(new Student { Name = "Carla", Gender = "female", University = yale});
-            students.Add(new Student { Name = "Jame", Gender = "male", University = oxford});
+            students.Add(new Student { Name = "Jame", Gender = "trans-gender", University = oxford});
             students.Add(new Student { Name = "Leyla", Gender = "female", University = oxford});
             students.Add(new Student { Name = "Toni", Gender = "male", University = yale});
 
@@ -146,6 +149,30 @@ namespace LinqToSQL
             MainDataGrid.ItemsSource = tonisLectures;
 
         }
-
+        public void GetAllStudentsFromeYale()
+        {
+            var stfYale = from student in dataContext.Students
+                          where student.University.Name == "Yale"
+                          select student;
+            MainDataGrid.ItemsSource = stfYale;
+        }
+        public void GetAllUniversitiesWiyhTransgenders()
+        {
+            var transgenderUniversity = from student in dataContext.Students
+                                        join university in dataContext.Universities
+                                        on student.University equals university
+                                        where student.Gender == "trans-gender"
+                                        select university;
+            MainDataGrid.ItemsSource = transgenderUniversity;
+        }
+        public void AllLecturesOnOxford()
+        {
+            var lecturesOnOxfort = from studentLecture in dataContext.StudentLectures
+                                   join student in dataContext.Students
+                                   on studentLecture.StudentId equals student.Id
+                                   where student.University.Name == "Oxford"
+                                   select studentLecture.Lecture;
+            MainDataGrid.ItemsSource = lecturesOnOxfort;
+        }
     }
 }
