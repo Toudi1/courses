@@ -1,0 +1,15 @@
+D:\programowanie\GitCourses\courses\CS_Course\Exercices\Exercices\bin\Debug\net7.0\Exercices.exe
+D:\programowanie\GitCourses\courses\CS_Course\Exercices\Exercices\bin\Debug\net7.0\Exercices.deps.json
+D:\programowanie\GitCourses\courses\CS_Course\Exercices\Exercices\bin\Debug\net7.0\Exercices.runtimeconfig.json
+D:\programowanie\GitCourses\courses\CS_Course\Exercices\Exercices\bin\Debug\net7.0\Exercices.dll
+D:\programowanie\GitCourses\courses\CS_Course\Exercices\Exercices\bin\Debug\net7.0\Exercices.pdb
+D:\programowanie\GitCourses\courses\CS_Course\Exercices\Exercices\obj\Debug\net7.0\Exercices.csproj.AssemblyReference.cache
+D:\programowanie\GitCourses\courses\CS_Course\Exercices\Exercices\obj\Debug\net7.0\Exercices.GeneratedMSBuildEditorConfig.editorconfig
+D:\programowanie\GitCourses\courses\CS_Course\Exercices\Exercices\obj\Debug\net7.0\Exercices.AssemblyInfoInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\Exercices\Exercices\obj\Debug\net7.0\Exercices.AssemblyInfo.cs
+D:\programowanie\GitCourses\courses\CS_Course\Exercices\Exercices\obj\Debug\net7.0\Exercices.csproj.CoreCompileInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\Exercices\Exercices\obj\Debug\net7.0\Exercices.dll
+D:\programowanie\GitCourses\courses\CS_Course\Exercices\Exercices\obj\Debug\net7.0\refint\Exercices.dll
+D:\programowanie\GitCourses\courses\CS_Course\Exercices\Exercices\obj\Debug\net7.0\Exercices.pdb
+D:\programowanie\GitCourses\courses\CS_Course\Exercices\Exercices\obj\Debug\net7.0\Exercices.genruntimeconfig.cache
+D:\programowanie\GitCourses\courses\CS_Course\Exercices\Exercices\obj\Debug\net7.0\ref\Exercices.dll
