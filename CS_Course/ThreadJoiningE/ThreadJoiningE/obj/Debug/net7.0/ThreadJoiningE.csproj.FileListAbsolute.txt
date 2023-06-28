@@ -1,0 +1,15 @@
+D:\programowanie\GitCourses\courses\CS_Course\ThreadJoiningE\ThreadJoiningE\bin\Debug\net7.0\ThreadJoiningE.exe
+D:\programowanie\GitCourses\courses\CS_Course\ThreadJoiningE\ThreadJoiningE\bin\Debug\net7.0\ThreadJoiningE.deps.json
+D:\programowanie\GitCourses\courses\CS_Course\ThreadJoiningE\ThreadJoiningE\bin\Debug\net7.0\ThreadJoiningE.runtimeconfig.json
+D:\programowanie\GitCourses\courses\CS_Course\ThreadJoiningE\ThreadJoiningE\bin\Debug\net7.0\ThreadJoiningE.dll
+D:\programowanie\GitCourses\courses\CS_Course\ThreadJoiningE\ThreadJoiningE\bin\Debug\net7.0\ThreadJoiningE.pdb
+D:\programowanie\GitCourses\courses\CS_Course\ThreadJoiningE\ThreadJoiningE\obj\Debug\net7.0\ThreadJoiningE.csproj.AssemblyReference.cache
+D:\programowanie\GitCourses\courses\CS_Course\ThreadJoiningE\ThreadJoiningE\obj\Debug\net7.0\ThreadJoiningE.GeneratedMSBuildEditorConfig.editorconfig
+D:\programowanie\GitCourses\courses\CS_Course\ThreadJoiningE\ThreadJoiningE\obj\Debug\net7.0\ThreadJoiningE.AssemblyInfoInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\ThreadJoiningE\ThreadJoiningE\obj\Debug\net7.0\ThreadJoiningE.AssemblyInfo.cs
+D:\programowanie\GitCourses\courses\CS_Course\ThreadJoiningE\ThreadJoiningE\obj\Debug\net7.0\ThreadJoiningE.csproj.CoreCompileInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\ThreadJoiningE\ThreadJoiningE\obj\Debug\net7.0\ThreadJoiningE.dll
+D:\programowanie\GitCourses\courses\CS_Course\ThreadJoiningE\ThreadJoiningE\obj\Debug\net7.0\refint\ThreadJoiningE.dll
+D:\programowanie\GitCourses\courses\CS_Course\ThreadJoiningE\ThreadJoiningE\obj\Debug\net7.0\ThreadJoiningE.pdb
+D:\programowanie\GitCourses\courses\CS_Course\ThreadJoiningE\ThreadJoiningE\obj\Debug\net7.0\ThreadJoiningE.genruntimeconfig.cache
+D:\programowanie\GitCourses\courses\CS_Course\ThreadJoiningE\ThreadJoiningE\obj\Debug\net7.0\ref\ThreadJoiningE.dll
