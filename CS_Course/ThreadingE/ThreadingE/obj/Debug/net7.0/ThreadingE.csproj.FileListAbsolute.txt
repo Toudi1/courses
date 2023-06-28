@@ -1,0 +1,15 @@
+D:\programowanie\GitCourses\courses\CS_Course\ThreadingE\ThreadingE\bin\Debug\net7.0\ThreadingE.exe
+D:\programowanie\GitCourses\courses\CS_Course\ThreadingE\ThreadingE\bin\Debug\net7.0\ThreadingE.deps.json
+D:\programowanie\GitCourses\courses\CS_Course\ThreadingE\ThreadingE\bin\Debug\net7.0\ThreadingE.runtimeconfig.json
+D:\programowanie\GitCourses\courses\CS_Course\ThreadingE\ThreadingE\bin\Debug\net7.0\ThreadingE.dll
+D:\programowanie\GitCourses\courses\CS_Course\ThreadingE\ThreadingE\bin\Debug\net7.0\ThreadingE.pdb
+D:\programowanie\GitCourses\courses\CS_Course\ThreadingE\ThreadingE\obj\Debug\net7.0\ThreadingE.csproj.AssemblyReference.cache
+D:\programowanie\GitCourses\courses\CS_Course\ThreadingE\ThreadingE\obj\Debug\net7.0\ThreadingE.GeneratedMSBuildEditorConfig.editorconfig
+D:\programowanie\GitCourses\courses\CS_Course\ThreadingE\ThreadingE\obj\Debug\net7.0\ThreadingE.AssemblyInfoInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\ThreadingE\ThreadingE\obj\Debug\net7.0\ThreadingE.AssemblyInfo.cs
+D:\programowanie\GitCourses\courses\CS_Course\ThreadingE\ThreadingE\obj\Debug\net7.0\ThreadingE.csproj.CoreCompileInputs.cache
+D:\programowanie\GitCourses\courses\CS_Course\ThreadingE\ThreadingE\obj\Debug\net7.0\ThreadingE.dll
+D:\programowanie\GitCourses\courses\CS_Course\ThreadingE\ThreadingE\obj\Debug\net7.0\refint\ThreadingE.dll
+D:\programowanie\GitCourses\courses\CS_Course\ThreadingE\ThreadingE\obj\Debug\net7.0\ThreadingE.pdb
+D:\programowanie\GitCourses\courses\CS_Course\ThreadingE\ThreadingE\obj\Debug\net7.0\ThreadingE.genruntimeconfig.cache
+D:\programowanie\GitCourses\courses\CS_Course\ThreadingE\ThreadingE\obj\Debug\net7.0\ref\ThreadingE.dll
