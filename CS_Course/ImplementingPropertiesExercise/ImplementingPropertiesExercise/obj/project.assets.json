@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\programowanie\\GitCourses\\courses\\CS_Course\\AbstractClassesC\\AbstractClassesC\\AbstractClassesC.csproj",
-      "projectName": "AbstractClassesC",
-      "projectPath": "D:\\programowanie\\GitCourses\\courses\\CS_Course\\AbstractClassesC\\AbstractClassesC\\AbstractClassesC.csproj",
+      "projectUniqueName": "D:\\programowanie\\GitCourses\\courses\\CS_Course\\ImplementingPropertiesExercise\\ImplementingPropertiesExercise\\ImplementingPropertiesExercise.csproj",
+      "projectName": "ImplementingPropertiesExercise",
+      "projectPath": "D:\\programowanie\\GitCourses\\courses\\CS_Course\\ImplementingPropertiesExercise\\ImplementingPropertiesExercise\\ImplementingPropertiesExercise.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\programowanie\\GitCourses\\courses\\CS_Course\\AbstractClassesC\\AbstractClassesC\\obj\\",
+      "outputPath": "D:\\programowanie\\GitCourses\\courses\\CS_Course\\ImplementingPropertiesExercise\\ImplementingPropertiesExercise\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
