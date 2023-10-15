@@ -3,7 +3,6 @@ D:\programowanie\GitCourses\courses\CS_Course\ParsingGame2\ParsingGame2\bin\Debu
 D:\programowanie\GitCourses\courses\CS_Course\ParsingGame2\ParsingGame2\bin\Debug\net7.0\ParsingGame2.runtimeconfig.json
 D:\programowanie\GitCourses\courses\CS_Course\ParsingGame2\ParsingGame2\bin\Debug\net7.0\ParsingGame2.dll
 D:\programowanie\GitCourses\courses\CS_Course\ParsingGame2\ParsingGame2\bin\Debug\net7.0\ParsingGame2.pdb
-D:\programowanie\GitCourses\courses\CS_Course\ParsingGame2\ParsingGame2\obj\Debug\net7.0\ParsingGame2.csproj.AssemblyReference.cache
 D:\programowanie\GitCourses\courses\CS_Course\ParsingGame2\ParsingGame2\obj\Debug\net7.0\ParsingGame2.GeneratedMSBuildEditorConfig.editorconfig
 D:\programowanie\GitCourses\courses\CS_Course\ParsingGame2\ParsingGame2\obj\Debug\net7.0\ParsingGame2.AssemblyInfoInputs.cache
 D:\programowanie\GitCourses\courses\CS_Course\ParsingGame2\ParsingGame2\obj\Debug\net7.0\ParsingGame2.AssemblyInfo.cs
