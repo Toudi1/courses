@@ -1,0 +1,15 @@
+D:\programowanie\zadaniaRekrutacyjne\Epicode\TodoApp\TodoApp\bin\Debug\TodoApp.exe.config
+D:\programowanie\zadaniaRekrutacyjne\Epicode\TodoApp\TodoApp\bin\Debug\TodoApp.exe
+D:\programowanie\zadaniaRekrutacyjne\Epicode\TodoApp\TodoApp\bin\Debug\TodoApp.pdb
+D:\programowanie\zadaniaRekrutacyjne\Epicode\TodoApp\TodoApp\obj\Debug\TodoApp.csproj.AssemblyReference.cache
+D:\programowanie\zadaniaRekrutacyjne\Epicode\TodoApp\TodoApp\obj\Debug\MainWindow.g.cs
+D:\programowanie\zadaniaRekrutacyjne\Epicode\TodoApp\TodoApp\obj\Debug\App.g.cs
+D:\programowanie\zadaniaRekrutacyjne\Epicode\TodoApp\TodoApp\obj\Debug\TodoApp_MarkupCompile.cache
+D:\programowanie\zadaniaRekrutacyjne\Epicode\TodoApp\TodoApp\obj\Debug\TodoApp_MarkupCompile.lref
+D:\programowanie\zadaniaRekrutacyjne\Epicode\TodoApp\TodoApp\obj\Debug\MainWindow.baml
+D:\programowanie\zadaniaRekrutacyjne\Epicode\TodoApp\TodoApp\obj\Debug\TodoApp.g.resources
+D:\programowanie\zadaniaRekrutacyjne\Epicode\TodoApp\TodoApp\obj\Debug\TodoApp.Properties.Resources.resources
+D:\programowanie\zadaniaRekrutacyjne\Epicode\TodoApp\TodoApp\obj\Debug\TodoApp.csproj.GenerateResource.cache
+D:\programowanie\zadaniaRekrutacyjne\Epicode\TodoApp\TodoApp\obj\Debug\TodoApp.csproj.CoreCompileInputs.cache
+D:\programowanie\zadaniaRekrutacyjne\Epicode\TodoApp\TodoApp\obj\Debug\TodoApp.exe
+D:\programowanie\zadaniaRekrutacyjne\Epicode\TodoApp\TodoApp\obj\Debug\TodoApp.pdb
