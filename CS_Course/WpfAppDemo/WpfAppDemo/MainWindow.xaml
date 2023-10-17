@@ -5,33 +5,42 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfAppDemo"
         mc:Ignorable="d"
-        Title="MainWindow" Height="150" Width="265">
+        Title="MainWindow" Height="350" Width="350">
     <Grid x:Name="myGrid">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="10"/>
-            <ColumnDefinition Width="Auto"/>
             <ColumnDefinition Width="*"/>
             <ColumnDefinition Width="10"/>
         </Grid.ColumnDefinitions>
 
         <Grid.RowDefinitions>
             <RowDefinition Height="10"/>
-            <RowDefinition Height="Auto"/>
-            <RowDefinition Height="Auto"/>
-            <RowDefinition Height="10"/>
             <RowDefinition Height="*"/>
             <RowDefinition Height="10"/>
         </Grid.RowDefinitions>
 
-        <Label Grid.Row="1" Grid.Column="1" Margin="2" Content="Name"/>
+        <ListBox x:Name="ListboxPeople" Grid.Row="1" Grid.Column="1">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel>
+                        <TextBlock Text="{Binding Name, StringFormat='Name: {0}'}"/>
+                        <TextBlock Text="{Binding Age, StringFormat='Age: {0}'}"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
 
-        <TextBox Text="{Binding Name, Mode=OneWay}" Grid.Row="1" Grid.Column="2" Margin="2"/>
+
+
+        <!--<Label Grid.Row="1" Grid.Column="1" Margin="2" Content="Name"/>
+
+        <TextBox Text="{Binding Path=Name, Mode=TwoWay}" Grid.Row="1" Grid.Column="2" Margin="2"/>
 
         <Label Content="Age" Margin="2" Grid.Row="2" Grid.Column="1"/>
 
-        <TextBox Text="{Binding Age, Mode=OneWay}" Grid.Column="2" Grid.Row="2" Margin="2" />
+        <TextBox Text="{Binding Path=Age, Mode=TwoWay}" Grid.Column="2" Grid.Row="2" Margin="2" />
 
-        <Button Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="2" Content="Info" Click="Button_Click"/>
+        <Button Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="2" Content="Info" Click="Button_Click"/>-->
         <!--<Button Grid.Row="3" Grid.Column="4" Content="B"/>-->
 
     </Grid>

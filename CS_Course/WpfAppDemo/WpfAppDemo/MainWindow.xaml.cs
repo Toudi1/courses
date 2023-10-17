@@ -21,34 +21,47 @@ namespace WpfAppDemo
     /// </summary>
     public partial class MainWindow : Window
     {
-        Person person = new Person
+        public List<Person> People = new List<Person>
         {
-            Name = "Janek",
-            Age = 33
+            new Person{ Name = "Jan", Age = 33},
+            new Person{ Name = "Anna", Age = 20},
+            new Person{ Name = "Jola", Age = 25},
+            new Person{ Name = "Tom", Age = 45},
+            new Person{ Name = "Czesław", Age = 60},
         };
+
+        //Person person = new Person
+        //{
+        //    Name = "Janek",
+        //    Age = 33
+        //};
         public MainWindow()
         {
             InitializeComponent();
 
-            this.DataContext = person;
 
-           /* BUTTON IN C#
-            Button myButton = new Button(); ;
-            myButton.Content = "B";
+            ListboxPeople.ItemsSource = People;
 
-            Grid.SetRow(myButton, 3);
-            Grid.SetColumn(myButton, 4);
 
-            Grid myGrid = (Grid)FindName("myGrid");
-            myGrid.Children.Add(myButton);*/
+            //this.DataContext = person;
 
-        }
+            /* BUTTON IN C#
+             Button myButton = new Button(); ;
+             myButton.Content = "B";
 
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            string personData = person.Name + " is " + person.Age + " years old";
-            MessageBox.Show(personData);
+             Grid.SetRow(myButton, 3);
+             Grid.SetColumn(myButton, 4);
+
+             Grid myGrid = (Grid)FindName("myGrid");
+             myGrid.Children.Add(myButton);*/
 
         }
+
+        //private void Button_Click(object sender, RoutedEventArgs e)
+        //{
+        //    string personData = person.Name + " is " + person.Age + " years old";
+        //    MessageBox.Show(personData);
+
+        //}
     }
 }
